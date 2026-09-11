@@ -20,7 +20,7 @@ const Header = () => {
   }, [])
 
   return (
-    <header className={`bg-background h-16 flex flex-row justify-between items-center gap-2 px-4 py-2 sticky top-0 z-50 transition-transform duration-300 ${
+    <header className={`bg-background h-(--header-height) flex flex-row justify-between items-center gap-2 px-4 py-2 sticky top-0 z-50 transition-transform duration-300 ${
         hidden ? '-translate-y-full' : 'translate-y-0'
       }`}>
       <Image src="/home/logo.svg" alt="Logo de Kave Home" width={114} height={16} priority />

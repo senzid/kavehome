@@ -15,5 +15,5 @@ export const desktopNavigation: NavItem[] = [
 ]
 
 export const favoritesNavigation: FavNavItem[] = [
-    { name: 'Favoritos', href: '/favorites', icon: '/common/icons/heart.svg', iconAlt: 'Icono de favoritos' },
+    { name: 'Favoritos', href: '/favorites', icon: '/icons/heart.svg', iconAlt: 'Icono de favoritos' },
 ]
