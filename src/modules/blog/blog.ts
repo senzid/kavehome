@@ -31,3 +31,8 @@ export const getBlogCovers = cache(async (): Promise<BlogCover[]> => {
   const posts = await fetchBlogPosts()
   return posts.map(toBlogCover)
 })
+
+export const getBlogSlugs = cache(async (): Promise<string[]> => {
+  const posts = await fetchBlogPosts()
+  return posts.map((post) => post.slug)
+})
