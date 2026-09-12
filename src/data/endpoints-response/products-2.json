@@ -1,0 +1,2853 @@
+{
+  "count": 21858,
+  "next": "https://kavehome.com/es/es/api/v2/products/?page=3",
+  "previous": "https://kavehome.com/es/es/api/v2/products/",
+  "results": [
+    {
+      "sku": "RS57BHERRSMOD",
+      "title": "Recambio de herrajes respaldo Blok",
+      "description": "",
+      "slug": "recambio-de-herrajes-respaldo-blok",
+      "stock": 168,
+      "price": 17.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [],
+      "mainImage": null,
+      "documents": [],
+      "collection": "Blok",
+      "categories": [],
+      "tags": [],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 1.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 1.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "1.0 x 1.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "",
+          "value": null
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": " - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "17.99",
+        "hasMatchMe": false,
+        "titleEn": "Replacement of Blok backrest hardware"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "RS57BHERBR",
+      "title": "Recambio de herrajes brazo Blok",
+      "description": "",
+      "slug": "recambio-de-herrajes-brazo-blok",
+      "stock": 211,
+      "price": 4.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [],
+      "mainImage": null,
+      "documents": [],
+      "collection": "Blok",
+      "categories": [],
+      "tags": [],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 1.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 1.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "1.0 x 1.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "",
+          "value": null
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": " - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "4.99",
+        "hasMatchMe": false,
+        "titleEn": "Replacement hardware for Blok arm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "RCC0934FER2",
+      "title": "Recambio herrajes Konna",
+      "description": "",
+      "slug": "recambio-herrajes-konna",
+      "stock": 110,
+      "price": 7.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [],
+      "mainImage": null,
+      "documents": [],
+      "collection": "Konna",
+      "categories": [],
+      "tags": [],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 1.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 1.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "1.0 x 1.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "",
+          "value": null
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": " - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "7.99",
+        "hasMatchMe": false,
+        "titleEn": "Konna hardware replacement parts"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "O100_AR1P_ST79",
+      "title": "Cojines Comova para asiento y respaldo 1 plaza gris",
+      "description": "",
+      "slug": "cojines-comova-para-asiento-y-respaldo-1-plaza-gris",
+      "stock": 16,
+      "price": 279.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [],
+      "mainImage": null,
+      "documents": [],
+      "collection": "Comova",
+      "categories": [
+        "Muebles de exterior",
+        "Textil de exterior"
+      ],
+      "tags": [],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 73.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 62.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 85.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "85.0 x 73.0 x 62.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "",
+          "value": null
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": " - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "279.00",
+        "hasMatchMe": false,
+        "titleEn": "Comova cushions for seat and backrest 1-seater grey"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "RJ130FUNRSJ05",
+      "title": "Forcanera recambio de funda para respaldo tumbona",
+      "description": "",
+      "slug": "forcanera-recambio-de-funda-para-respaldo-tumbona",
+      "stock": 99,
+      "price": 31.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [],
+      "mainImage": null,
+      "documents": [],
+      "collection": "Forcanera",
+      "categories": [],
+      "tags": [],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 1.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 1.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "1.0 x 1.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "",
+          "value": null
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": " - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "31.99",
+        "hasMatchMe": false,
+        "titleEn": "Forcanera replacement cover for sun lounger backrest"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "S82090AU12",
+      "title": "Cojín para silla Romane beige",
+      "description": "",
+      "slug": "cojin-para-silla-romane-beige",
+      "stock": 99,
+      "price": 23.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [],
+      "mainImage": null,
+      "documents": [],
+      "collection": "Romane",
+      "categories": [
+        "Textil del hogar",
+        "Cojines y fundas de cojín",
+        "Cojines de interior"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 1.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 1.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "1.0 x 1.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "",
+          "value": null
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": " - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "23.99",
+        "hasMatchMe": false,
+        "titleEn": "Beige Romane chair cushion"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "S00333SF59",
+      "title": "Sofá cama Vera 3 plazas terracota 240 cm FSC Mix Credit",
+      "description": "Diseño de formas suaves\n\nEl sofá Vera destaca por un diseño de formas suaves y volúmenes generosos que transmiten una sensación de confort visual. Sus brazos redondeados, el respaldo de líneas continuas y la base de perfil bajo crean una silueta equilibrada y contemporánea que se integra con facilidad en distintos estilos de interior. Los cojines del respaldo son desenfundables, para facilitar su mantenimiento.\n\nTapizado con textura y alta durabilidad\n\nEstá tapizado con un tejido de estructura grande y efecto multicolor, una superficie que aporta riqueza visual y un acabado con personalidad. Además de su carácter decorativo, el tejido ofrece una alta resistencia a la abrasión y una buena solidez a la luz, cualidades que ayudan a mantener su aspecto con el paso del tiempo y el uso cotidiano.\n\nConfort pensado para el día a día\n\nLos amplios cojines de asiento y respaldo proporcionan una superficie cómoda y acogedora para el descanso. La sentada media blanda, conseguida gracias al sistema de suspensión por muelles zig zag y la espuma de alta calidad High Resilience de 30 kg/m3, ofrece una sensación de confort superior y un excelente soporte y recuperación. La distribución de los módulos favorece una sentada amplia y uniforme, mientras que las formas redondeadas contribuyen a una experiencia confortable desde cualquier posición.\n\nEstructura resistente\n\nLa estructura interna está fabricada con madera maciza de pino y contrachapado, una combinación que aporta estabilidad y solidez al conjunto. Esta construcción ofrece una base resistente para acompañar el uso diario, manteniendo la firmeza y la durabilidad de la pieza a lo largo del tiempo.",
+      "slug": "sofa-cama-vera-3-plazas-terracota-240-cm-fsc-mix-credit",
+      "stock": 99,
+      "price": 1899.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": {
+        "code": "S00333SF59_1C01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787915782/measurements/S00333SF59_1C01.jpg",
+        "type": "C",
+        "order": 0
+      },
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "S00333SF59_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127454/products/S00333SF59_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S310_074",
+          "url": "https://d.media.kavehome.com/image/upload/v1787910675/ambiences/A26S310_074.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "S00333SF59_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127461/products/S00333SF59_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "S00333SF59_1G01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787150147/ambiences/S00333SF59_1G01.gif",
+          "type": "A",
+          "order": 1
+        },
+        {
+          "code": "S00333SF59_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127460/products/S00333SF59_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "S00333SF59_1C01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787915782/measurements/S00333SF59_1C01.jpg",
+          "type": "C",
+          "order": 0
+        },
+        {
+          "code": "S00333SF59_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1788418438/products/S00333SF59_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "S00333SF59_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127460/products/S00333SF59_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "S00333SF59_1V04",
+          "url": "https://d.media.kavehome.com/image/upload/v1788418435/products/S00333SF59_1V04.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "S00333SF59_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127460/products/S00333SF59_1D04.jpg",
+          "type": "D",
+          "order": 3
+        },
+        {
+          "code": "S00333SF59_1D05",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127458/products/S00333SF59_1D05.jpg",
+          "type": "D",
+          "order": 4
+        }
+      ],
+      "mainImage": {
+        "code": "S00333SF59_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787127454/products/S00333SF59_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "S00333SF59",
+          "url": "https://d.media.kavehome.com/image/upload/v1788357082/ar/S00333SF59.glb",
+          "type": "AR"
+        },
+        {
+          "code": "S00333SF59",
+          "url": "https://d.media.kavehome.com/raw/upload/v1788356783/3d/S00333SF59.zip",
+          "type": "3D"
+        }
+      ],
+      "collection": "Vera",
+      "categories": [
+        "Sofás",
+        "Sofás cama y divanes"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 240.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 85.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 116.5
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "116.5 x 240.0 x 85.0 cm"
+        },
+        "technique": {
+          "label": "Técnica",
+          "value": null
+        },
+        "edition": {
+          "label": "Edición",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "Cita descriptiva",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "Autor de la cita descriptiva",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con un cuchillo. Guardar el embalaje unos días para en caso de retorno y mantener las instrucciones de montaje para posibles consultas."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "50% MDF (tablero de fibra de densidad media), 17% Madera de pino (Pinus sylvestris), 10% Espuma (poliuretano), 9% Tejido, 8% Metal, 6% Fibras acrílicas, 1% Muelles ensacados - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "1899.00",
+        "hasMatchMe": false,
+        "titleEn": "Vera terracotta 4-seater sofa bed240 cm FSC Mix Credit"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1788357082/ar/S00333SF59.glb",
+      "videos": [],
+      "returnPolicy": "customised",
+      "bulletPoints": [
+        "Sentada media blanda debido al sistema de suspensión por muelles zig zag y espuma de alta calidad High Resilience de 30kg/m3. El cojín de respaldo está relleno de fibra efecto plumón."
+      ]
+    },
+    {
+      "sku": "S00333SF12",
+      "title": "Sofá cama Vera 3 plazas beige 240 cm FSC Mix Credit",
+      "description": "Diseño de formas suaves\n\nEl sofá Vera destaca por un diseño de formas suaves y volúmenes generosos que transmiten una sensación de confort visual. Sus brazos redondeados, el respaldo de líneas continuas y la base de perfil bajo crean una silueta equilibrada y contemporánea que se integra con facilidad en distintos estilos de interior. Los cojines del respaldo son desenfundables, para facilitar su mantenimiento.\n\nTapizado con textura y alta durabilidad\n\nEstá tapizado con un tejido de estructura grande y efecto multicolor, una superficie que aporta riqueza visual y un acabado con personalidad. Además de su carácter decorativo, el tejido ofrece una alta resistencia a la abrasión y una buena solidez a la luz, cualidades que ayudan a mantener su aspecto con el paso del tiempo y el uso cotidiano.\n\nConfort pensado para el día a día\n\nLos amplios cojines de asiento y respaldo proporcionan una superficie cómoda y acogedora para el descanso. La sentada media blanda, conseguida gracias al sistema de suspensión por muelles zig zag y la espuma de alta calidad High Resilience de 30 kg/m3, ofrece una sensación de confort superior y un excelente soporte y recuperación. La distribución de los módulos favorece una sentada amplia y uniforme, mientras que las formas redondeadas contribuyen a una experiencia confortable desde cualquier posición.\n\nEstructura resistente\n\nLa estructura interna está fabricada con madera maciza de pino y contrachapado, una combinación que aporta estabilidad y solidez al conjunto. Esta construcción ofrece una base resistente para acompañar el uso diario, manteniendo la firmeza y la durabilidad de la pieza a lo largo del tiempo.",
+      "slug": "sofa-cama-vera-3-plazas-beige-240-cm-fsc-mix-credit",
+      "stock": 175,
+      "price": 1899.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "S00333SF12_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127453/products/S00333SF12_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S310_071",
+          "url": "https://d.media.kavehome.com/image/upload/v1787910674/ambiences/A26S310_071.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "S00333SF12_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127460/products/S00333SF12_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "S00333SF12_1G01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787150147/ambiences/S00333SF12_1G01.gif",
+          "type": "A",
+          "order": 1
+        },
+        {
+          "code": "S00333SF12_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127456/products/S00333SF12_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "S00333SF12_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1788418436/products/S00333SF12_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "S00333SF12_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127456/products/S00333SF12_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "S00333SF12_1V04",
+          "url": "https://d.media.kavehome.com/image/upload/v1788418435/products/S00333SF12_1V04.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "S00333SF12_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127457/products/S00333SF12_1D04.jpg",
+          "type": "D",
+          "order": 3
+        },
+        {
+          "code": "S00333SF12_1D05",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127456/products/S00333SF12_1D05.jpg",
+          "type": "D",
+          "order": 4
+        }
+      ],
+      "mainImage": {
+        "code": "S00333SF12_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787127453/products/S00333SF12_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "S00333SF12",
+          "url": "https://d.media.kavehome.com/image/upload/v1788357078/ar/S00333SF12.glb",
+          "type": "AR"
+        },
+        {
+          "code": "S00333SF12",
+          "url": "https://d.media.kavehome.com/raw/upload/v1788356781/3d/S00333SF12.zip",
+          "type": "3D"
+        }
+      ],
+      "collection": "Vera",
+      "categories": [
+        "Sofás",
+        "Sofás cama y divanes"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 240.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 85.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 116.5
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "116.5 x 240.0 x 85.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con un cuchillo. Guardar el embalaje unos días para en caso de retorno y mantener las instrucciones de montaje para posibles consultas."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "50% MDF (tablero de fibra de densidad media), 17% Madera de pino (Pinus sylvestris), 10% Espuma (poliuretano), 9% Tejido, 8% Metal, 6% Fibras acrílicas, 1% Muelles ensacados - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "1899.00",
+        "hasMatchMe": false,
+        "titleEn": "Vera beige 4-seater sofa bed240 cm FSC Mix Credit"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1788357078/ar/S00333SF12.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Sentada media blanda debido al sistema de suspensión por muelles zig zag y espuma de alta calidad High Resilience de 30kg/m3. El cojín de respaldo está relleno de fibra efecto plumón."
+      ]
+    },
+    {
+      "sku": "S00333SF10",
+      "title": "Sofá cama Vera 3 plazas marrón claro 240 cm FSC Mix Credit",
+      "description": "Diseño de formas suaves\n\nEl sofá Vera destaca por un diseño de formas suaves y volúmenes generosos que transmiten una sensación de confort visual. Sus brazos redondeados, el respaldo de líneas continuas y la base de perfil bajo crean una silueta equilibrada y contemporánea que se integra con facilidad en distintos estilos de interior. Los cojines del respaldo son desenfundables, para facilitar su mantenimiento.\n\nTapizado con textura y alta durabilidad\n\nEstá tapizado con un tejido de estructura grande y efecto multicolor, una superficie que aporta riqueza visual y un acabado con personalidad. Además de su carácter decorativo, el tejido ofrece una alta resistencia a la abrasión y una buena solidez a la luz, cualidades que ayudan a mantener su aspecto con el paso del tiempo y el uso cotidiano.\n\nConfort pensado para el día a día\n\nLos amplios cojines de asiento y respaldo proporcionan una superficie cómoda y acogedora para el descanso. La sentada media blanda, conseguida gracias al sistema de suspensión por muelles zig zag y la espuma de alta calidad High Resilience de 30 kg/m3, ofrece una sensación de confort superior y un excelente soporte y recuperación. La distribución de los módulos favorece una sentada amplia y uniforme, mientras que las formas redondeadas contribuyen a una experiencia confortable desde cualquier posición.\n\nEstructura resistente\n\nLa estructura interna está fabricada con madera maciza de pino y contrachapado, una combinación que aporta estabilidad y solidez al conjunto. Esta construcción ofrece una base resistente para acompañar el uso diario, manteniendo la firmeza y la durabilidad de la pieza a lo largo del tiempo.",
+      "slug": "sofa-cama-vera-3-plazas-marron-claro-240-cm-fsc-mix-credit",
+      "stock": 135,
+      "price": 1899.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "S00333SF10_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127454/products/S00333SF10_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S310_072",
+          "url": "https://d.media.kavehome.com/image/upload/v1787910674/ambiences/A26S310_072.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "S00333SF10_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127459/products/S00333SF10_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "S00333SF10_1G01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787150147/ambiences/S00333SF10_1G01.gif",
+          "type": "A",
+          "order": 1
+        },
+        {
+          "code": "S00333SF10_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127455/products/S00333SF10_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "S00333SF10_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1788418435/products/S00333SF10_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "S00333SF10_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127456/products/S00333SF10_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "S00333SF10_1V04",
+          "url": "https://d.media.kavehome.com/image/upload/v1788418435/products/S00333SF10_1V04.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "S00333SF10_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127460/products/S00333SF10_1D04.jpg",
+          "type": "D",
+          "order": 3
+        },
+        {
+          "code": "S00333SF10_1D05",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127456/products/S00333SF10_1D05.jpg",
+          "type": "D",
+          "order": 4
+        }
+      ],
+      "mainImage": {
+        "code": "S00333SF10_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787127454/products/S00333SF10_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "S00333SF10",
+          "url": "https://d.media.kavehome.com/image/upload/v1788357078/ar/S00333SF10.glb",
+          "type": "AR"
+        },
+        {
+          "code": "S00333SF10",
+          "url": "https://d.media.kavehome.com/raw/upload/v1788356782/3d/S00333SF10.zip",
+          "type": "3D"
+        }
+      ],
+      "collection": "Vera",
+      "categories": [
+        "Sofás",
+        "Sofás cama y divanes"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 240.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 85.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 116.5
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "116.5 x 240.0 x 85.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con un cuchillo. Guardar el embalaje unos días para en caso de retorno y mantener las instrucciones de montaje para posibles consultas."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "50% MDF (tablero de fibra de densidad media), 17% Madera de pino (Pinus sylvestris), 10% Espuma (poliuretano), 9% Tejido, 8% Metal, 6% Fibras acrílicas, 1% Muelles ensacados - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "1899.00",
+        "hasMatchMe": false,
+        "titleEn": "Vera light brown 4-seater sofa bed240 cm FSC Mix Credit"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1788357078/ar/S00333SF10.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Sentada media blanda debido al sistema de suspensión por muelles zig zag y espuma de alta calidad High Resilience de 30kg/m3. El cojín de respaldo está relleno de fibra efecto plumón."
+      ]
+    },
+    {
+      "sku": "S00333SF06",
+      "title": "Sofá cama Vera 3 plazas verde oliva 240 cm FSC Mix Credit",
+      "description": "Diseño de formas suaves\n\nEl sofá Vera destaca por un diseño de formas suaves y volúmenes generosos que transmiten una sensación de confort visual. Sus brazos redondeados, el respaldo de líneas continuas y la base de perfil bajo crean una silueta equilibrada y contemporánea que se integra con facilidad en distintos estilos de interior. Los cojines del respaldo son desenfundables, para facilitar su mantenimiento.\n\nTapizado con textura y alta durabilidad\n\nEstá tapizado con un tejido de estructura grande y efecto multicolor, una superficie que aporta riqueza visual y un acabado con personalidad. Además de su carácter decorativo, el tejido ofrece una alta resistencia a la abrasión y una buena solidez a la luz, cualidades que ayudan a mantener su aspecto con el paso del tiempo y el uso cotidiano.\n\nConfort pensado para el día a día\n\nLos amplios cojines de asiento y respaldo proporcionan una superficie cómoda y acogedora para el descanso. La sentada media blanda, conseguida gracias al sistema de suspensión por muelles zig zag y la espuma de alta calidad High Resilience de 30 kg/m3, ofrece una sensación de confort superior y un excelente soporte y recuperación. La distribución de los módulos favorece una sentada amplia y uniforme, mientras que las formas redondeadas contribuyen a una experiencia confortable desde cualquier posición.\n\nEstructura resistente\n\nLa estructura interna está fabricada con madera maciza de pino y contrachapado, una combinación que aporta estabilidad y solidez al conjunto. Esta construcción ofrece una base resistente para acompañar el uso diario, manteniendo la firmeza y la durabilidad de la pieza a lo largo del tiempo.",
+      "slug": "sofa-cama-vera-3-plazas-verde-oliva-240-cm-fsc-mix-credit",
+      "stock": 99,
+      "price": 1899.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "S00333SF06_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127454/products/S00333SF06_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S310_073",
+          "url": "https://d.media.kavehome.com/image/upload/v1787910674/ambiences/A26S310_073.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "S00333SF06_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127458/products/S00333SF06_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "S00333SF06_1G01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787150147/ambiences/S00333SF06_1G01.gif",
+          "type": "A",
+          "order": 1
+        },
+        {
+          "code": "S00333SF06_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127458/products/S00333SF06_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "S00333SF06_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1788418438/products/S00333SF06_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "S00333SF06_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127458/products/S00333SF06_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "S00333SF06_1V04",
+          "url": "https://d.media.kavehome.com/image/upload/v1788418435/products/S00333SF06_1V04.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "S00333SF06_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127458/products/S00333SF06_1D04.jpg",
+          "type": "D",
+          "order": 3
+        },
+        {
+          "code": "S00333SF06_1D05",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127455/products/S00333SF06_1D05.jpg",
+          "type": "D",
+          "order": 4
+        }
+      ],
+      "mainImage": {
+        "code": "S00333SF06_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787127454/products/S00333SF06_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "S00333SF06",
+          "url": "https://d.media.kavehome.com/image/upload/v1788357076/ar/S00333SF06.glb",
+          "type": "AR"
+        },
+        {
+          "code": "S00333SF06",
+          "url": "https://d.media.kavehome.com/raw/upload/v1788356778/3d/S00333SF06.zip",
+          "type": "3D"
+        }
+      ],
+      "collection": "Vera",
+      "categories": [
+        "Sofás",
+        "Sofás cama y divanes"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 240.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 85.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 116.5
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "116.5 x 240.0 x 85.0 cm"
+        },
+        "technique": {
+          "label": "Técnica",
+          "value": null
+        },
+        "edition": {
+          "label": "Edición",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "Cita descriptiva",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "Autor de la cita descriptiva",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con un cuchillo. Guardar el embalaje unos días para en caso de retorno y mantener las instrucciones de montaje para posibles consultas."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "50% MDF (tablero de fibra de densidad media), 17% Madera de pino (Pinus sylvestris), 10% Espuma (poliuretano), 9% Tejido, 8% Metal, 6% Fibras acrílicas, 1% Muelles ensacados - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "1899.00",
+        "hasMatchMe": false,
+        "titleEn": "Vera olive green 4-seater sofa bed240 cm FSC Mix Credit"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1788357076/ar/S00333SF06.glb",
+      "videos": [],
+      "returnPolicy": "customised",
+      "bulletPoints": [
+        "Sentada media blanda debido al sistema de suspensión por muelles zig zag y espuma de alta calidad High Resilience de 30kg/m3. El cojín de respaldo está relleno de fibra efecto plumón."
+      ]
+    },
+    {
+      "sku": "B00455PM01",
+      "title": "Jabonera Mavon de mármol gris oscuro",
+      "description": "Diseños de mármol para el baño\n\nLa colección Mavon presenta piezas de mármol con una presencia elegante y muy fácil de integrar en el baño. Su diseño sobrio y su acabado mineral aportan un toque refinado, pensado para sumar orden, carácter y estilo a la decoración.\n\nVetas y tonalidades únicas\n\nAl estar hechas de mármol, cada pieza es exclusiva, con tonalidades, vetas y texturas propias que hacen que ninguna sea igual a otra. Una colección con personalidad, ideal para crear un ambiente cuidado y con una estética atemporal.",
+      "slug": "jabonera-mavon-de-marmol-gris-oscuro",
+      "stock": 369,
+      "price": 4.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "B00455PM01_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1775650377/products/B00455PM01_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S001_050",
+          "url": "https://d.media.kavehome.com/image/upload/v1787812487/ambiences/A26S001_050.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "B00455PM01_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1775650377/products/B00455PM01_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "B00455PM01_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1775650377/products/B00455PM01_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "B00455PM01_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1775650402/products/B00455PM01_1V02.jpg",
+          "type": "V",
+          "order": 1
+        }
+      ],
+      "mainImage": {
+        "code": "B00455PM01_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1775650377/products/B00455PM01_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Mavon",
+      "categories": [
+        "Baño",
+        "Accesorios de baño"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 9.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.5
+        },
+        "length": {
+          "label": "Largo",
+          "value": 9.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "9.0 x 9.0 x 1.5 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Mármol - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "4.99",
+        "hasMatchMe": false,
+        "titleEn": "Mavon dark grey marble soap dish"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "B00454PM01",
+      "title": "Bandeja Mavon de mármol gris oscuro",
+      "description": "Diseños de mármol para el baño\n\nLa colección Mavon presenta piezas de mármol con una presencia elegante y muy fácil de integrar en el baño. Su diseño sobrio y su acabado mineral aportan un toque refinado, pensado para sumar orden, carácter y estilo a la decoración.\n\nVetas y tonalidades únicas\n\nAl estar hechas de mármol, cada pieza es exclusiva, con tonalidades, vetas y texturas propias que hacen que ninguna sea igual a otra. Una colección con personalidad, ideal para crear un ambiente cuidado y con una estética atemporal.",
+      "slug": "bandeja-mavon-de-marmol-gris-oscuro",
+      "stock": 126,
+      "price": 9.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "B00454PM01_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1774949123/products/B00454PM01_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S001_049",
+          "url": "https://d.media.kavehome.com/image/upload/v1787812486/ambiences/A26S001_049.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "B00454PM01_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1774949154/products/B00454PM01_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "B00454PM01_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1774949136/products/B00454PM01_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "B00454PM01_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1774949126/products/B00454PM01_1V02.jpg",
+          "type": "V",
+          "order": 1
+        }
+      ],
+      "mainImage": {
+        "code": "B00454PM01_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1774949123/products/B00454PM01_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Mavon",
+      "categories": [
+        "Baño",
+        "Accesorios de baño"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 31.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.5
+        },
+        "length": {
+          "label": "Largo",
+          "value": 15.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "15.0 x 31.0 x 1.5 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Mármol - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "9.99",
+        "hasMatchMe": false,
+        "titleEn": "Mavon dark grey marble tray"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "X02162PL06",
+      "title": "Funda de cojín Oruma de pelo sintético efecto astracán marrón claro 40 x 60 cm",
+      "description": "La colección Oruma destaca por su pelo sintético efecto astracán, que crea una superficie de textura marcada y aspecto mullido. El juego irregular del pelo aporta volumen y profundidad, convirtiendo el acabado en el protagonista del diseño. Una propuesta que suma calidez y riqueza visual a los espacios de descanso.",
+      "slug": "funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-40-x-60-cm",
+      "stock": 198,
+      "price": 39.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02162PL06_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028640/products/X02162PL06_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_141",
+          "url": "https://d.media.kavehome.com/image/upload/v1785484461/ambiences/A26S043_141.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02162PL06_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028643/products/X02162PL06_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X02162PL06_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028642/products/X02162PL06_1D02.jpg",
+          "type": "D",
+          "order": 1
+        }
+      ],
+      "mainImage": {
+        "code": "X02162PL06_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1784028640/products/X02162PL06_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "X02162PL06",
+          "url": "https://d.media.kavehome.com/raw/upload/v1788336430/3d/X02162PL06.zip",
+          "type": "3D"
+        },
+        {
+          "code": "X02162PL06",
+          "url": "https://d.media.kavehome.com/image/upload/v1788336464/ar/X02162PL06.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Oruma",
+      "categories": [
+        "Textil del hogar",
+        "Cojines y fundas de cojín"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 40.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 60.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "60.0 x 40.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Funda de cojín Oruma de pelo sintético efecto astracán marrón claro 40 x 60 cm",
+            "colors": "No disponible",
+            "mainColor": "green",
+            "size": "",
+            "length": 60.0,
+            "width": 40.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-40-x-60-cm",
+            "slug": "funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-40-x-60-cm",
+            "price": "39.99",
+            "sku": "X02162PL06",
+            "quantity": 198,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Funda de cojín Oruma de pelo sintético efecto astracán marrón chocolate 40 x 60 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 60.0,
+            "width": 40.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-40-x-60-cm",
+            "slug": "funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-40-x-60-cm",
+            "price": "39.99",
+            "sku": "X01639PL10",
+            "quantity": 314,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "39.99",
+        "hasMatchMe": false,
+        "titleEn": "Oruma light brown astrakhan-effect faux fur cushion cover 40 x 60 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1788336464/ar/X02162PL06.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Funda de cojín de pelo sintético efecto astracán."
+      ]
+    },
+    {
+      "sku": "X02160PL06",
+      "title": "Manta Oruma de pelo sintético efecto astracán marrón claro 140 x 200 cm",
+      "description": "La colección Oruma destaca por su pelo sintético efecto astracán, que crea una superficie de textura marcada y aspecto mullido. El juego irregular del pelo aporta volumen y profundidad, convirtiendo el acabado en el protagonista del diseño. Una propuesta que suma calidez y riqueza visual a los espacios de descanso.",
+      "slug": "manta-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-140-x-200-cm",
+      "stock": 709,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02160PL06_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028638/products/X02160PL06_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_151",
+          "url": "https://d.media.kavehome.com/image/upload/v1786445106/ambiences/A26S043_151.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02160PL06_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028639/products/X02160PL06_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X02160PL06_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028637/products/X02160PL06_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X02160PL06_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028497/products/X02160PL06_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X02160PL06_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028637/products/X02160PL06_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "X02160PL06_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028641/products/X02160PL06_1V03.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "X02160PL06_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028638/products/X02160PL06_1D04.jpg",
+          "type": "D",
+          "order": 3
+        }
+      ],
+      "mainImage": {
+        "code": "X02160PL06_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1784028638/products/X02160PL06_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Oruma",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 140.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 2.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 200.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "200.0 x 140.0 x 2.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Manta Oruma de pelo sintético efecto astracán marrón claro 140 x 200 cm",
+            "colors": "No disponible",
+            "mainColor": "green",
+            "size": "",
+            "length": 200.0,
+            "width": 140.0,
+            "height": 2.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-140-x-200-cm",
+            "slug": "manta-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-140-x-200-cm",
+            "price": "69.99",
+            "sku": "X02160PL06",
+            "quantity": 709,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Manta Oruma de pelo sintético efecto astracán marrón chocolate 140 x 200 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 200.0,
+            "width": 140.0,
+            "height": 2.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-140-x-200-cm",
+            "slug": "manta-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-140-x-200-cm",
+            "price": "69.99",
+            "sku": "X01638PL10",
+            "quantity": 608,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Oruma light brown astrakhan-effect faux fur blanket 140 x 200 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta de pelo sintético efecto astracán.",
+        "Incluye un arnés para guardarla y transportarla con mayor comodidad."
+      ]
+    },
+    {
+      "sku": "X02159PL10",
+      "title": "Funda de cojín Seruva de pelo sintético efecto rizo marrón chocolate 40 x 60 cm",
+      "description": "La colección Seruva destaca por su pelo sintético efecto rizo, que crea una superficie mullida y rica en textura. Su acabado aporta volumen y una sensación especialmente acogedora, invitando al tacto y reforzando la calidez de las piezas. Un diseño donde la suavidad se convierte en protagonista.",
+      "slug": "funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-40-x-60-cm",
+      "stock": 238,
+      "price": 39.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02159PL10_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028636/products/X02159PL10_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_142",
+          "url": "https://d.media.kavehome.com/image/upload/v1785484465/ambiences/A26S043_142.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02159PL10_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028636/products/X02159PL10_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X02159PL10_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028636/products/X02159PL10_1D02.jpg",
+          "type": "D",
+          "order": 1
+        }
+      ],
+      "mainImage": {
+        "code": "X02159PL10_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1784028636/products/X02159PL10_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "X02159PL10",
+          "url": "https://d.media.kavehome.com/image/upload/v1788334404/ar/X02159PL10.glb",
+          "type": "AR"
+        },
+        {
+          "code": "X02159PL10",
+          "url": "https://d.media.kavehome.com/raw/upload/v1788334372/3d/X02159PL10.zip",
+          "type": "3D"
+        }
+      ],
+      "collection": "Seruva",
+      "categories": [
+        "Textil del hogar",
+        "Cojines y fundas de cojín"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 40.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 60.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "60.0 x 40.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Funda de cojín Seruva de pelo sintético efecto rizo marrón chocolate 40 x 60 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 60.0,
+            "width": 40.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-40-x-60-cm",
+            "slug": "funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-40-x-60-cm",
+            "price": "39.99",
+            "sku": "X02159PL10",
+            "quantity": 238,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Funda de cojín Seruva de pelo sintético efecto rizo beige 40 x 60 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 60.0,
+            "width": 40.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-beige-40-x-60-cm",
+            "slug": "funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-beige-40-x-60-cm",
+            "price": "39.99",
+            "sku": "X01634PL39",
+            "quantity": 312,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "39.99",
+        "hasMatchMe": false,
+        "titleEn": "Seruva chocolate brown curl-effect faux fur cushion cover 40 x 60 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1788334404/ar/X02159PL10.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Funda de cojín de pelo sintético efecto rizo."
+      ]
+    },
+    {
+      "sku": "X02158PL10",
+      "title": "Manta Seruva de pelo sintético efecto rizo marrón chocolate 140 x 200 cm",
+      "description": "La colección Seruva destaca por su pelo sintético efecto rizo, que crea una superficie mullida y rica en textura. Su acabado aporta volumen y una sensación especialmente acogedora, invitando al tacto y reforzando la calidez de las piezas. Un diseño donde la suavidad se convierte en protagonista.",
+      "slug": "manta-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-140-x-200-cm",
+      "stock": 331,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02158PL10_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028635/products/X02158PL10_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_143",
+          "url": "https://d.media.kavehome.com/image/upload/v1785484465/ambiences/A26S043_143.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02158PL10_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028639/products/X02158PL10_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X02158PL10_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028636/products/X02158PL10_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X02158PL10_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028497/products/X02158PL10_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X02158PL10_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028639/products/X02158PL10_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "X02158PL10_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028640/products/X02158PL10_1V03.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "X02158PL10_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028639/products/X02158PL10_1D04.jpg",
+          "type": "D",
+          "order": 3
+        }
+      ],
+      "mainImage": {
+        "code": "X02158PL10_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1784028635/products/X02158PL10_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Seruva",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 140.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 2.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 200.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "200.0 x 140.0 x 2.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Manta Seruva de pelo sintético efecto rizo marrón chocolate 140 x 200 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 200.0,
+            "width": 140.0,
+            "height": 2.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-140-x-200-cm",
+            "slug": "manta-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-140-x-200-cm",
+            "price": "69.99",
+            "sku": "X02158PL10",
+            "quantity": 331,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Manta Seruva de pelo sintético efecto rizo beige 140 x 200 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 200.0,
+            "width": 140.0,
+            "height": 2.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-seruva-de-pelo-sintetico-efecto-rizo-beige-140-x-200-cm",
+            "slug": "manta-seruva-de-pelo-sintetico-efecto-rizo-beige-140-x-200-cm",
+            "price": "69.99",
+            "sku": "X01632PL39",
+            "quantity": 541,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Seruva chocolate brown curl-effect faux fur blanket 140 x 200 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta de pelo sintético efecto rizo.",
+        "Incluye un arnés para guardarla y transportarla con mayor comodidad."
+      ]
+    },
+    {
+      "sku": "X02121FN03",
+      "title": "Manta Orlet de lana reversible gris y beige 130 x 170 cm",
+      "description": "La manta Orlet está confeccionada en lana 100%, que proporciona calidez y una textura suave al tacto. Su diseño reversible combina dos tonos con un contraste equilibrado, y los flecos en los extremos añaden un acabado sencillo y cuidado. Gracias a sus dimensiones y su composición, es una pieza versátil que puede integrarse fácilmente en distintos espacios.",
+      "slug": "manta-orlet-de-lana-reversible-gris-y-beige-130-x-170-cm",
+      "stock": 411,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02121FN03_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234363/products/X02121FN03_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_146",
+          "url": "https://d.media.kavehome.com/image/upload/v1785484464/ambiences/A26S043_146.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02121FN03_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278933/products/X02121FN03_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X02121FN03_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278934/products/X02121FN03_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X02121FN03_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234362/products/X02121FN03_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X02121FN03_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234394/products/X02121FN03_1V03.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "X02121FN03_1V04",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234395/products/X02121FN03_1V04.jpg",
+          "type": "V",
+          "order": 3
+        }
+      ],
+      "mainImage": {
+        "code": "X02121FN03_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787234363/products/X02121FN03_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Orlet",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 130.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 170.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "170.0 x 130.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Tejido - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Manta Orlet de lana reversible gris y beige 130 x 170 cm",
+            "colors": "No disponible",
+            "mainColor": "stone",
+            "size": "",
+            "length": 170.0,
+            "width": 130.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-orlet-de-lana-reversible-gris-y-beige-130-x-170-cm",
+            "slug": "manta-orlet-de-lana-reversible-gris-y-beige-130-x-170-cm",
+            "price": "69.99",
+            "sku": "X02121FN03",
+            "quantity": 411,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Manta Orlet de lana reversible granate y beige 130 x 170 cm",
+            "colors": "No disponible",
+            "mainColor": "garnet",
+            "size": "",
+            "length": 170.0,
+            "width": 130.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-orlet-de-lana-reversible-granate-y-beige-130-x-170-cm",
+            "slug": "manta-orlet-de-lana-reversible-granate-y-beige-130-x-170-cm",
+            "price": "69.99",
+            "sku": "X02119FN34",
+            "quantity": 361,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Orlet grey and beige reversible wool blanket 130 x 170 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta de 100% lana reversible con detalle de flecos."
+      ]
+    },
+    {
+      "sku": "X02119FN34",
+      "title": "Manta Orlet de lana reversible granate y beige 130 x 170 cm",
+      "description": "La manta Orlet está confeccionada en lana 100%, que proporciona calidez y una textura suave al tacto. Su diseño reversible combina dos tonos con un contraste equilibrado, y los flecos en los extremos añaden un acabado sencillo y cuidado. Gracias a sus dimensiones y su composición, es una pieza versátil que puede integrarse fácilmente en distintos espacios.",
+      "slug": "manta-orlet-de-lana-reversible-granate-y-beige-130-x-170-cm",
+      "stock": 361,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02119FN34_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234349/products/X02119FN34_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_150",
+          "url": "https://d.media.kavehome.com/image/upload/v1786445109/ambiences/A26S043_150.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02119FN34_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278934/products/X02119FN34_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X02119FN34_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278937/products/X02119FN34_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X02119FN34_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234348/products/X02119FN34_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X02119FN34_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278919/products/X02119FN34_1V03.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "X02119FN34_1V04",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278917/products/X02119FN34_1V04.jpg",
+          "type": "V",
+          "order": 3
+        }
+      ],
+      "mainImage": {
+        "code": "X02119FN34_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787234349/products/X02119FN34_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Orlet",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 130.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 170.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "170.0 x 130.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Tejido - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Manta Orlet de lana reversible gris y beige 130 x 170 cm",
+            "colors": "No disponible",
+            "mainColor": "stone",
+            "size": "",
+            "length": 170.0,
+            "width": 130.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-orlet-de-lana-reversible-gris-y-beige-130-x-170-cm",
+            "slug": "manta-orlet-de-lana-reversible-gris-y-beige-130-x-170-cm",
+            "price": "69.99",
+            "sku": "X02121FN03",
+            "quantity": 411,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Manta Orlet de lana reversible granate y beige 130 x 170 cm",
+            "colors": "No disponible",
+            "mainColor": "garnet",
+            "size": "",
+            "length": 170.0,
+            "width": 130.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-orlet-de-lana-reversible-granate-y-beige-130-x-170-cm",
+            "slug": "manta-orlet-de-lana-reversible-granate-y-beige-130-x-170-cm",
+            "price": "69.99",
+            "sku": "X02119FN34",
+            "quantity": 361,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Orlet maroon and beige reversible wool blanket 130 x 170 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta de 100% lana reversible con detalle de flecos."
+      ]
+    },
+    {
+      "sku": "X02118FN34",
+      "title": "Manta Niroli de mezcla de lana bicolor 130 x 170 cm",
+      "description": "La manta Niroli está confeccionada en una mezcla de lana con un acabado efecto mohair que aporta una textura suave y agradable. Su diseño bicolor crea un contraste que realza su carácter decorativo, mientras que los flecos completan la pieza aportando textura. Una manta pensada para sumar calidez a los espacios de descanso.",
+      "slug": "manta-niroli-de-mezcla-de-lana-bicolor-130-x-170-cm",
+      "stock": 333,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02118FN34_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234332/products/X02118FN34_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S115_041",
+          "url": "https://d.media.kavehome.com/image/upload/v1785233923/ambiences/A26S115_041.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02118FN34_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278930/products/X02118FN34_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X02118FN34_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278931/products/X02118FN34_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X02118FN34_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234332/products/X02118FN34_1V02.jpg",
+          "type": "V",
+          "order": 1
+        }
+      ],
+      "mainImage": {
+        "code": "X02118FN34_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787234332/products/X02118FN34_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Niroli",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 130.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 170.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "170.0 x 130.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Tejido - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": true,
+        "titleEn": "Niroli two-tone wool blend blanket 130 x 170 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta bicolor efecto mohair con detalle de flecos.",
+        "Hecha de mezcla de lana."
+      ]
+    },
+    {
+      "sku": "X02117FN06",
+      "title": "Manta Eldin de mezcla de lana bicolor 130 x 170 cm",
+      "description": "La manta Eldin está confeccionada en una mezcla de lana que aporta calidez y una textura agradable. Su diseño combina diferentes tonalidades con un sutil entramado de líneas diagonales que aporta profundidad y dinamismo a la superficie. El acabado con flecos aporta el toque final a un diseño marcado por el contraste de tonalidades y texturas.",
+      "slug": "manta-eldin-de-mezcla-de-lana-bicolor-130-x-170-cm",
+      "stock": 201,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02117FN06_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234318/products/X02117FN06_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S115_159",
+          "url": "https://d.media.kavehome.com/image/upload/v1785233934/ambiences/A26S115_159.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02117FN06_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278933/products/X02117FN06_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "A26S115_160",
+          "url": "https://d.media.kavehome.com/image/upload/v1785233924/ambiences/A26S115_160.jpg",
+          "type": "A",
+          "order": 1
+        },
+        {
+          "code": "X02117FN06_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278936/products/X02117FN06_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X02117FN06_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234318/products/X02117FN06_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X02117FN06_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278921/products/X02117FN06_1V03.jpg",
+          "type": "V",
+          "order": 2
+        }
+      ],
+      "mainImage": {
+        "code": "X02117FN06_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787234318/products/X02117FN06_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Eldin",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 130.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 170.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "170.0 x 130.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Tejido - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Eldin two-tone wool-blend blanket 130 x 170 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta bicolor con detalle de flecos.",
+        "Hecha de mezcla de lana."
+      ]
+    }
+  ]
+}

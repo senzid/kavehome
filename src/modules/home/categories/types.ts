@@ -1,4 +1,3 @@
-/** Minimal UI contract used by home category cards. */
 export type Category = {
   id: number
   name: string
@@ -6,7 +5,6 @@ export type Category = {
   slug: string
 }
 
-/** Parent reference as returned by the categories API. */
 export type CategoryParent = {
   id: number
   pimCode: string
@@ -15,7 +13,6 @@ export type CategoryParent = {
   highlightImage: string | null
 }
 
-/** Fields we read from each API result. */
 export type CategoryApi = {
   id: number
   name: string

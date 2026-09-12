@@ -1,0 +1,3289 @@
+{
+  "count": 21858,
+  "next": "https://kavehome.com/es/es/api/v2/products/?page=4",
+  "previous": "https://kavehome.com/es/es/api/v2/products/?page=2",
+  "results": [
+    {
+      "sku": "X02116FN12",
+      "title": "Manta Varila de lana beige 130 x 170 cm",
+      "description": "La manta Varila está confeccionada en 100% lana, un material que aporta calidez y una textura agradable. Las franjas a contraste recorren el diseño creando una combinación de líneas y tonalidades que aporta dinamismo a la superficie. Una composición sencilla en la que la geometría y la textura se complementan.",
+      "slug": "manta-varila-de-lana-beige-130-x-170-cm",
+      "stock": 414,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02116FN12_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234289/products/X02116FN12_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_158",
+          "url": "https://d.media.kavehome.com/image/upload/v1786445105/ambiences/A26S043_158.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02116FN12_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278931/products/X02116FN12_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X02116FN12_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278935/products/X02116FN12_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X02116FN12_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234289/products/X02116FN12_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X02116FN12_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278919/products/X02116FN12_1V03.jpg",
+          "type": "V",
+          "order": 2
+        }
+      ],
+      "mainImage": {
+        "code": "X02116FN12_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787234289/products/X02116FN12_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Varila",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 130.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 170.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "170.0 x 130.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Tejido - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Varila beige wool blanket 130 x 170 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta con detalle de franja a contraste.",
+        "Hecha de 100% lana."
+      ]
+    },
+    {
+      "sku": "X02113FN35",
+      "title": "Manta Onari de lana multicolor 130 x 170 cm",
+      "description": "Confeccionada en lana, la manta Onari destaca por su diseño multicolor de efecto degradado. Las distintas tonalidades se funden creando cambios de color que aportan profundidad visual a la pieza. La textura del tejido completa un diseño cálido con acabados cuidados.",
+      "slug": "manta-onari-de-lana-multicolor-130-x-170-cm",
+      "stock": 201,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X02113FN35_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234099/products/X02113FN35_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_152",
+          "url": "https://d.media.kavehome.com/image/upload/v1786445103/ambiences/A26S043_152.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X02113FN35_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278936/products/X02113FN35_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X02113FN35_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278938/products/X02113FN35_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X02113FN35_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787234099/products/X02113FN35_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X02113FN35_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1779278919/products/X02113FN35_1V03.jpg",
+          "type": "V",
+          "order": 2
+        }
+      ],
+      "mainImage": {
+        "code": "X02113FN35_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787234099/products/X02113FN35_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Onari",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 130.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 170.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "170.0 x 130.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Tejido - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Onari multicoloured wool blanket 130 x 170 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta con efecto degradado multicolor.",
+        "Hecha de 100% lana."
+      ]
+    },
+    {
+      "sku": "X01639PL10",
+      "title": "Funda de cojín Oruma de pelo sintético efecto astracán marrón chocolate 40 x 60 cm",
+      "description": "La colección Oruma destaca por su pelo sintético efecto astracán, que crea una superficie de textura marcada y aspecto mullido. El juego irregular del pelo aporta volumen y profundidad, convirtiendo el acabado en el protagonista del diseño. Una propuesta que suma calidez y riqueza visual a los espacios de descanso.",
+      "slug": "funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-40-x-60-cm",
+      "stock": 314,
+      "price": 39.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X01639PL10_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1788266457/products/X01639PL10_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_139",
+          "url": "https://d.media.kavehome.com/image/upload/v1785484465/ambiences/A26S043_139.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X01639PL10_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589047/products/X01639PL10_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X01639PL10_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589048/products/X01639PL10_1D02.jpg",
+          "type": "D",
+          "order": 1
+        }
+      ],
+      "mainImage": {
+        "code": "X01639PL10_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1788266457/products/X01639PL10_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "X01639PL10",
+          "url": "https://d.media.kavehome.com/image/upload/v1788336451/ar/X01639PL10.glb",
+          "type": "AR"
+        },
+        {
+          "code": "X01639PL10",
+          "url": "https://d.media.kavehome.com/raw/upload/v1788336426/3d/X01639PL10.zip",
+          "type": "3D"
+        }
+      ],
+      "collection": "Oruma",
+      "categories": [
+        "Textil del hogar",
+        "Cojines y fundas de cojín"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 40.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 60.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "60.0 x 40.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Funda de cojín Oruma de pelo sintético efecto astracán marrón claro 40 x 60 cm",
+            "colors": "No disponible",
+            "mainColor": "green",
+            "size": "",
+            "length": 60.0,
+            "width": 40.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-40-x-60-cm",
+            "slug": "funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-40-x-60-cm",
+            "price": "39.99",
+            "sku": "X02162PL06",
+            "quantity": 198,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Funda de cojín Oruma de pelo sintético efecto astracán marrón chocolate 40 x 60 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 60.0,
+            "width": 40.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-40-x-60-cm",
+            "slug": "funda-de-cojin-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-40-x-60-cm",
+            "price": "39.99",
+            "sku": "X01639PL10",
+            "quantity": 314,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "39.99",
+        "hasMatchMe": false,
+        "titleEn": "Oruma chocolate brown astrakhan-effect faux fur cushion cover 40 x 60 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1788336451/ar/X01639PL10.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Funda de cojín de pelo sintético efecto astracán."
+      ]
+    },
+    {
+      "sku": "X01638PL10",
+      "title": "Manta Oruma de pelo sintético efecto astracán marrón chocolate 140 x 200 cm",
+      "description": "La colección Oruma destaca por su pelo sintético efecto astracán, que crea una superficie de textura marcada y aspecto mullido. El juego irregular del pelo aporta volumen y profundidad, convirtiendo el acabado en el protagonista del diseño. Una propuesta que suma calidez y riqueza visual a los espacios de descanso.",
+      "slug": "manta-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-140-x-200-cm",
+      "stock": 608,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X01638PL10_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028640/products/X01638PL10_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_111",
+          "url": "https://d.media.kavehome.com/image/upload/v1785484499/ambiences/A26S043_111.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X01638PL10_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028635/products/X01638PL10_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X01638PL10_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028642/products/X01638PL10_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X01638PL10_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028497/products/X01638PL10_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X01638PL10_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028645/products/X01638PL10_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "X01638PL10_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028641/products/X01638PL10_1V03.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "X01638PL10_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1784028642/products/X01638PL10_1D04.jpg",
+          "type": "D",
+          "order": 3
+        }
+      ],
+      "mainImage": {
+        "code": "X01638PL10_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1784028640/products/X01638PL10_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Oruma",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 140.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 2.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 200.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "200.0 x 140.0 x 2.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Manta Oruma de pelo sintético efecto astracán marrón claro 140 x 200 cm",
+            "colors": "No disponible",
+            "mainColor": "green",
+            "size": "",
+            "length": 200.0,
+            "width": 140.0,
+            "height": 2.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-140-x-200-cm",
+            "slug": "manta-oruma-de-pelo-sintetico-efecto-astracan-marron-claro-140-x-200-cm",
+            "price": "69.99",
+            "sku": "X02160PL06",
+            "quantity": 709,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Manta Oruma de pelo sintético efecto astracán marrón chocolate 140 x 200 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 200.0,
+            "width": 140.0,
+            "height": 2.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-140-x-200-cm",
+            "slug": "manta-oruma-de-pelo-sintetico-efecto-astracan-marron-chocolate-140-x-200-cm",
+            "price": "69.99",
+            "sku": "X01638PL10",
+            "quantity": 608,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Oruma chocolate brown astrakhan-effect faux fur blanket 140 x 200 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta de pelo sintético efecto astracán.",
+        "Incluye un arnés para guardarla y transportarla con mayor comodidad."
+      ]
+    },
+    {
+      "sku": "X01634PL39",
+      "title": "Funda de cojín Seruva de pelo sintético efecto rizo beige 40 x 60 cm",
+      "description": "La colección Seruva destaca por su pelo sintético efecto rizo, que crea una superficie mullida y rica en textura. Su acabado aporta volumen y una sensación especialmente acogedora, invitando al tacto y reforzando la calidez de las piezas. Un diseño donde la suavidad se convierte en protagonista.",
+      "slug": "funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-beige-40-x-60-cm",
+      "stock": 312,
+      "price": 39.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X01634PL39_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1778562838/products/X01634PL39_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_144",
+          "url": "https://d.media.kavehome.com/image/upload/v1785484461/ambiences/A26S043_144.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X01634PL39_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1778562856/products/X01634PL39_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X01634PL39_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1778562863/products/X01634PL39_1D02.jpg",
+          "type": "D",
+          "order": 1
+        }
+      ],
+      "mainImage": {
+        "code": "X01634PL39_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1778562838/products/X01634PL39_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "X01634PL39",
+          "url": "https://d.media.kavehome.com/raw/upload/v1788334371/3d/X01634PL39.zip",
+          "type": "3D"
+        },
+        {
+          "code": "X01634PL39",
+          "url": "https://d.media.kavehome.com/image/upload/v1788334403/ar/X01634PL39.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Seruva",
+      "categories": [
+        "Textil del hogar",
+        "Cojines y fundas de cojín"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 40.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 60.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "60.0 x 40.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Funda de cojín Seruva de pelo sintético efecto rizo marrón chocolate 40 x 60 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 60.0,
+            "width": 40.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-40-x-60-cm",
+            "slug": "funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-40-x-60-cm",
+            "price": "39.99",
+            "sku": "X02159PL10",
+            "quantity": 238,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Funda de cojín Seruva de pelo sintético efecto rizo beige 40 x 60 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 60.0,
+            "width": 40.0,
+            "height": 1.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-beige-40-x-60-cm",
+            "slug": "funda-de-cojin-seruva-de-pelo-sintetico-efecto-rizo-beige-40-x-60-cm",
+            "price": "39.99",
+            "sku": "X01634PL39",
+            "quantity": 312,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "39.99",
+        "hasMatchMe": false,
+        "titleEn": "Seruva beige curl-effect faux fur cushion cover 40 x 60 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1788334403/ar/X01634PL39.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Funda de cojín de pelo sintético efecto rizo."
+      ]
+    },
+    {
+      "sku": "X01632PL39",
+      "title": "Manta Seruva de pelo sintético efecto rizo beige 140 x 200 cm",
+      "description": "La colección Seruva destaca por su pelo sintético efecto rizo, que crea una superficie mullida y rica en textura. Su acabado aporta volumen y una sensación especialmente acogedora, invitando al tacto y reforzando la calidez de las piezas. Un diseño donde la suavidad se convierte en protagonista.",
+      "slug": "manta-seruva-de-pelo-sintetico-efecto-rizo-beige-140-x-200-cm",
+      "stock": 541,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X01632PL39_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1788430066/X01632PL39_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_110",
+          "url": "https://d.media.kavehome.com/image/upload/v1785484488/ambiences/A26S043_110.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X01632PL39_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589051/products/X01632PL39_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X01632PL39_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589050/products/X01632PL39_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X01632PL39_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784010520/products/X01632PL39_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X01632PL39_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589045/products/X01632PL39_1D04.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "X01632PL39_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589044/products/X01632PL39_1V03.jpg",
+          "type": "V",
+          "order": 2
+        }
+      ],
+      "mainImage": {
+        "code": "X01632PL39_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1788430066/X01632PL39_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Seruva",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 140.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 2.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 200.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "200.0 x 140.0 x 2.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Manta Seruva de pelo sintético efecto rizo marrón chocolate 140 x 200 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 200.0,
+            "width": 140.0,
+            "height": 2.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-140-x-200-cm",
+            "slug": "manta-seruva-de-pelo-sintetico-efecto-rizo-marron-chocolate-140-x-200-cm",
+            "price": "69.99",
+            "sku": "X02158PL10",
+            "quantity": 331,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Manta Seruva de pelo sintético efecto rizo beige 140 x 200 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 200.0,
+            "width": 140.0,
+            "height": 2.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/manta-seruva-de-pelo-sintetico-efecto-rizo-beige-140-x-200-cm",
+            "slug": "manta-seruva-de-pelo-sintetico-efecto-rizo-beige-140-x-200-cm",
+            "price": "69.99",
+            "sku": "X01632PL39",
+            "quantity": 541,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Seruva beige curl-effect faux fur blanket 140 x 200 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta de pelo sintético efecto rizo.",
+        "Incluye un arnés para guardarla y transportarla con mayor comodidad."
+      ]
+    },
+    {
+      "sku": "X01628PL39",
+      "title": "Funda de cojín Derolia efecto pelo rayas crudo 40 x 60 cm",
+      "description": "La colección Derolia destaca por su acabado efecto pelo, que aporta una textura suave y agradable. El diseño a rayas se integra sutilmente en la superficie, creando un juego de relieves que enriquece visualmente las piezas. Una propuesta pensada para sumar calidez y textura a los espacios de descanso.",
+      "slug": "funda-de-cojin-derolia-efecto-pelo-rayas-crudo-40-x-60-cm",
+      "stock": 302,
+      "price": 39.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X01628PL39_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1778562837/products/X01628PL39_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_140",
+          "url": "https://d.media.kavehome.com/image/upload/v1785484462/ambiences/A26S043_140.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X01628PL39_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1778562855/products/X01628PL39_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X01628PL39_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1778562852/products/X01628PL39_1D02.jpg",
+          "type": "D",
+          "order": 1
+        }
+      ],
+      "mainImage": {
+        "code": "X01628PL39_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1778562837/products/X01628PL39_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "X01628PL39",
+          "url": "https://d.media.kavehome.com/raw/upload/v1788332610/3d/X01628PL39.zip",
+          "type": "3D"
+        },
+        {
+          "code": "X01628PL39",
+          "url": "https://d.media.kavehome.com/image/upload/v1788332627/ar/X01628PL39.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Derolia",
+      "categories": [
+        "Textil del hogar",
+        "Cojines y fundas de cojín"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 40.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 60.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "60.0 x 40.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "39.99",
+        "hasMatchMe": false,
+        "titleEn": "Derolia ecru striped fur effect cushion cover 40 x 60 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1788332627/ar/X01628PL39.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Funda de cojín con efecto pelo a rayas."
+      ]
+    },
+    {
+      "sku": "X01626PL39",
+      "title": "Manta Derolia efecto pelo rayas crudo 140 x 200 cm",
+      "description": "La colección Derolia destaca por su acabado efecto pelo, que aporta una textura suave y agradable. El diseño a rayas se integra sutilmente en la superficie, creando un juego de relieves que enriquece visualmente las piezas. Una propuesta pensada para sumar calidez y textura a los espacios de descanso.",
+      "slug": "manta-derolia-efecto-pelo-rayas-crudo-140-x-200-cm",
+      "stock": 604,
+      "price": 69.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "X01626PL39_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1788430064/X01626PL39_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S043_160",
+          "url": "https://d.media.kavehome.com/image/upload/v1786445108/ambiences/A26S043_160.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "X01626PL39_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589049/products/X01626PL39_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "X01626PL39_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589047/products/X01626PL39_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "X01626PL39_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784010520/products/X01626PL39_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "X01626PL39_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589046/products/X01626PL39_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "X01626PL39_1V03",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589042/products/X01626PL39_1V03.jpg",
+          "type": "V",
+          "order": 2
+        },
+        {
+          "code": "X01626PL39_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1783589046/products/X01626PL39_1D04.jpg",
+          "type": "D",
+          "order": 3
+        }
+      ],
+      "mainImage": {
+        "code": "X01626PL39_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1788430064/X01626PL39_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [],
+      "collection": "Derolia",
+      "categories": [
+        "Textil del hogar",
+        "Mantas y plaids"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 140.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 2.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 200.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "200.0 x 140.0 x 2.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Poliéster - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "69.99",
+        "hasMatchMe": false,
+        "titleEn": "Derolia ecru striped fur effect blanket 140 x 200 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Manta con efecto pelo a rayas.",
+        "Incluye un arnés para guardarla y transportarla con mayor comodidad."
+      ]
+    },
+    {
+      "sku": "COJ5050FR",
+      "title": "Relleno de cojín Fluff retardante de fuego 50 x 50 cm",
+      "description": "",
+      "slug": "relleno-de-cojin-fluff-retardante-de-fuego-50-x-50-cm",
+      "stock": 403,
+      "price": 15.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [],
+      "mainImage": null,
+      "documents": [],
+      "collection": "",
+      "categories": [
+        "Textil del hogar",
+        "Rellenos de cojín"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 50.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 10.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 50.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "50.0 x 50.0 x 10.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "",
+          "value": null
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": " - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "15.99",
+        "hasMatchMe": false,
+        "titleEn": "Fluff fire-retardant cushion filling 50 x 50 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": null,
+      "bulletPoints": []
+    },
+    {
+      "sku": "L00248PM01",
+      "title": "Lámpara de pie Arnolia de acero cepillado y mármol negro",
+      "description": "Arnolia destaca por su silueta arqueada y ligera, que proyecta la luz desde lo alto y aporta elegancia al espacio. La combinación del acero cepillado con una sólida base de mármol crea un contraste sofisticado, mientras que su estructura ajustable permite ajustar la altura y la dirección de la luz para adaptar la iluminación a cada ambiente.",
+      "slug": "lampara-de-pie-arnolia-de-acero-cepillado-y-marmol-negro",
+      "stock": 179,
+      "price": 679.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "L00248PM01_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787571067/products/L00248PM01_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S310_008",
+          "url": "https://d.media.kavehome.com/image/upload/v1787127300/ambiences/A26S310_008.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "L00248PM01_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1787571069/products/L00248PM01_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "L00248PM01_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787571068/products/L00248PM01_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "L00248PM01_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1787571067/products/L00248PM01_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "L00248PM01_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1787571068/products/L00248PM01_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "L00248PM01_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1787571069/products/L00248PM01_1D04.jpg",
+          "type": "D",
+          "order": 3
+        },
+        {
+          "code": "L00248PM01_1D05",
+          "url": "https://d.media.kavehome.com/image/upload/v1787571068/products/L00248PM01_1D05.jpg",
+          "type": "D",
+          "order": 4
+        }
+      ],
+      "mainImage": {
+        "code": "L00248PM01_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1787571067/products/L00248PM01_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "L00248PM01",
+          "url": "https://d.media.kavehome.com/image/upload/v1786962386/ar/L00248PM01.glb",
+          "type": "AR"
+        },
+        {
+          "code": "L00248PM01",
+          "url": "https://d.media.kavehome.com/raw/upload/v1786962369/3d/L00248PM01.zip",
+          "type": "3D"
+        }
+      ],
+      "collection": "Arnolia",
+      "categories": [
+        "Iluminación",
+        "Lámparas de pie"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 10.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 196.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 15.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "15.0 x 10.0 x 196.0 cm"
+        },
+        "technique": {
+          "label": "Técnica",
+          "value": ""
+        },
+        "edition": {
+          "label": "Edición",
+          "value": ""
+        },
+        "descriptiveQuote": {
+          "label": "Cita descriptiva",
+          "value": ""
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "Autor de la cita descriptiva",
+          "value": ""
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con un cuchillo. Guardar el embalaje unos días para en caso de retorno y mantener las instrucciones de montaje para posibles consultas."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "90% Mármol, 9% Acero, 1% Polipropileno - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "679.00",
+        "hasMatchMe": false,
+        "titleEn": "Arnolia brushed steel and black marble floor lamp"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1786962386/ar/L00248PM01.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Lámpara de acero con base de mármol.",
+        "Compatible con bombilla E27 máx. 40W. Se vende por separado.",
+        "Estructura ajustable, que permite regular la altura de la lámpara y la orientación de la luz."
+      ]
+    },
+    {
+      "sku": "L00247PM05",
+      "title": "Lámpara de pie Arnolia de acero cepillado y mármol blanco",
+      "description": "Arnolia destaca por su silueta arqueada y ligera, que proyecta la luz desde lo alto y aporta elegancia al espacio. La combinación del acero cepillado con una sólida base de mármol crea un contraste sofisticado, mientras que su estructura ajustable permite ajustar la altura y la dirección de la luz para adaptar la iluminación a cada ambiente.",
+      "slug": "lampara-de-pie-arnolia-de-acero-cepillado-y-marmol-blanco",
+      "stock": 270,
+      "price": 679.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "L00247PM05_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1782130007/products/L00247PM05_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S115_027",
+          "url": "https://d.media.kavehome.com/image/upload/v1785233909/ambiences/A26S115_027.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "L00247PM05_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1782130017/products/L00247PM05_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "L00247PM05_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1782130012/products/L00247PM05_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "L00247PM05_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1782130008/products/L00247PM05_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "L00247PM05_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1782130014/products/L00247PM05_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "L00247PM05_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1782130015/products/L00247PM05_1D04.jpg",
+          "type": "D",
+          "order": 3
+        },
+        {
+          "code": "L00247PM05_1D05",
+          "url": "https://d.media.kavehome.com/image/upload/v1782130010/products/L00247PM05_1D05.jpg",
+          "type": "D",
+          "order": 4
+        }
+      ],
+      "mainImage": {
+        "code": "L00247PM05_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1782130007/products/L00247PM05_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "L00247PM05",
+          "url": "https://d.media.kavehome.com/raw/upload/v1786962368/3d/L00247PM05.zip",
+          "type": "3D"
+        },
+        {
+          "code": "L00247PM05",
+          "url": "https://d.media.kavehome.com/image/upload/v1786962386/ar/L00247PM05.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Arnolia",
+      "categories": [
+        "Iluminación",
+        "Lámparas de pie"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 160.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 196.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 35.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "35.0 x 160.0 x 196.0 cm"
+        },
+        "technique": {
+          "label": "Técnica",
+          "value": ""
+        },
+        "edition": {
+          "label": "Edición",
+          "value": ""
+        },
+        "descriptiveQuote": {
+          "label": "Cita descriptiva",
+          "value": ""
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "Autor de la cita descriptiva",
+          "value": ""
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con un cuchillo. Guardar el embalaje unos días para en caso de retorno y mantener las instrucciones de montaje para posibles consultas."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "90% Mármol, 9% Acero, 1% Polipropileno - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "679.00",
+        "hasMatchMe": true,
+        "titleEn": "Arnolia brushed steel and white marble floor lamp"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1786962386/ar/L00247PM05.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Lámpara de acero con base de mármol.",
+        "Compatible con bombilla E27 máx. 40W. Se vende por separado.",
+        "Estructura ajustable, que permite regular la altura de la lámpara y la orientación de la luz."
+      ]
+    },
+    {
+      "sku": "M00238MO12",
+      "title": "Estantería Aduma de chapa de roble acabado tono natural FSC 100% 100 x 65 cm",
+      "description": "Diseño con inspiración arquitectónica\n\nHecha en roble, esta estantería reinterpreta el almacenamiento desde una estética contemporánea y sofisticada. Sus curvas escultóricas, huecos geométricos y baldas superpuestas componen una pieza de fuerte presencia visual, pensada para aportar equilibrio entre funcionalidad y expresión estética.",
+      "slug": "estanteria-aduma-de-chapa-de-roble-acabado-tono-natural-fsc-100-100-x-65-cm",
+      "stock": 217,
+      "price": 399.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": {
+        "code": "M00238MO12_1C01",
+        "url": "https://d.media.kavehome.com/image/upload/v1784554927/measurements/M00238MO12_1C01.jpg",
+        "type": "C",
+        "order": 0
+      },
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "M00238MO12_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186595/products/M00238MO12_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S311_003",
+          "url": "https://d.media.kavehome.com/image/upload/v1788154227/ambiences/A26S311_003.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "M00238MO12_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186614/products/M00238MO12_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "M00238MO12_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186608/products/M00238MO12_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "M00238MO12_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186595/products/M00238MO12_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "M00238MO12_1C01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784554927/measurements/M00238MO12_1C01.jpg",
+          "type": "C",
+          "order": 0
+        },
+        {
+          "code": "M00238MO12_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186611/products/M00238MO12_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "M00238MO12_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186613/products/M00238MO12_1D04.jpg",
+          "type": "D",
+          "order": 3
+        },
+        {
+          "code": "M00238MO12_1D05",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186609/products/M00238MO12_1D05.jpg",
+          "type": "D",
+          "order": 4
+        }
+      ],
+      "mainImage": {
+        "code": "M00238MO12_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1784186595/products/M00238MO12_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "aduma_shelf_100x65_m00238_ed01",
+          "url": "https://d.media.kavehome.com/image/upload/v1782727359/assembly-instructions/aduma-shelf-100x65-m00238-ed01.pdf",
+          "type": "D"
+        },
+        {
+          "code": "M00238MO12",
+          "url": "https://d.media.kavehome.com/raw/upload/v1786535928/3d/M00238MO12.zip",
+          "type": "3D"
+        },
+        {
+          "code": "M00238MO12",
+          "url": "https://d.media.kavehome.com/image/upload/v1786535960/ar/M00238MO12.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Aduma",
+      "categories": [
+        "Muebles",
+        "Estanterías y vitrinas"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 100.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 65.5
+        },
+        "length": {
+          "label": "Largo",
+          "value": 40.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "40.0 x 100.0 x 65.5 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con un cuchillo. Guardar el embalaje unos días para en caso de retorno y mantener las instrucciones de montaje para posibles consultas."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "77% MDF (tablero de fibra de densidad media), 20% Madera de roble (Quercus Alba), 3% Chapa de roble (Quercus alba) - Base de agua"
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Estantería Aduma de chapa de roble acabado tono natural FSC 100% 100 x 65 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 40.0,
+            "width": 100.0,
+            "height": 65.5,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/estanteria-aduma-de-chapa-de-roble-acabado-tono-natural-fsc-100-100-x-65-cm",
+            "slug": "estanteria-aduma-de-chapa-de-roble-acabado-tono-natural-fsc-100-100-x-65-cm",
+            "price": "399.00",
+            "sku": "M00238MO12",
+            "quantity": 217,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Estantería Aduma DM lacado granate con acabado brillante FSC 100% 100 x 65 cm",
+            "colors": "No disponible",
+            "mainColor": "garnet",
+            "size": "",
+            "length": 40.0,
+            "width": 100.0,
+            "height": 65.5,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/estanteria-aduma-dm-lacado-granate-con-acabado-brillante-fsc-100-100-x-65-cm",
+            "slug": "estanteria-aduma-dm-lacado-granate-con-acabado-brillante-fsc-100-100-x-65-cm",
+            "price": "399.00",
+            "sku": "M00238WM16",
+            "quantity": 188,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Estantería Aduma de chapa de roble con acabado ebonizado FSC 100% 100 x 65 cm",
+            "colors": "No disponible",
+            "mainColor": "dark brown",
+            "size": "",
+            "length": 40.0,
+            "width": 100.0,
+            "height": 65.5,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/estanteria-aduma-de-chapa-de-roble-con-acabado-ebonizado-fsc-100-100-x-65-cm",
+            "slug": "estanteria-aduma-de-chapa-de-roble-con-acabado-ebonizado-fsc-100-100-x-65-cm",
+            "price": "399.00",
+            "sku": "M00238MO09",
+            "quantity": 247,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "399.00",
+        "hasMatchMe": false,
+        "titleEn": "Aduma natural-coloured finish oak veneer shelving unit FSC 100% 100 x 65 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1786535960/ar/M00238MO12.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "M00237MO16",
+      "title": "Estantería Aduma DM lacado granate con acabado brillante FSC 100% 160 x 65 cm",
+      "description": "Diseño con inspiración arquitectónica\n\nRealizada en DM con acabado lacado brillante, esta estantería reinterpreta el almacenamiento desde una estética contemporánea y sofisticada. Sus curvas escultóricas, huecos geométricos y baldas superpuestas componen una pieza de fuerte presencia visual, pensada para aportar equilibrio entre funcionalidad y expresión estética.",
+      "slug": "estanteria-aduma-dm-lacado-granate-con-acabado-brillante-fsc-100-160-x-65-cm",
+      "stock": 205,
+      "price": 499.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": {
+        "code": "M00237MO16_1C01",
+        "url": "https://d.media.kavehome.com/image/upload/v1784555190/measurements/M00237MO16_1C01.jpg",
+        "type": "C",
+        "order": 0
+      },
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "M00237MO16_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186591/products/M00237MO16_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S311_004",
+          "url": "https://d.media.kavehome.com/image/upload/v1788154229/ambiences/A26S311_004.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "M00237MO16_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186602/products/M00237MO16_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "M00237MO16_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186600/products/M00237MO16_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "M00237MO16_1V02",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186591/products/M00237MO16_1V02.jpg",
+          "type": "V",
+          "order": 1
+        },
+        {
+          "code": "M00237MO16_1C01",
+          "url": "https://d.media.kavehome.com/image/upload/v1784555190/measurements/M00237MO16_1C01.jpg",
+          "type": "C",
+          "order": 0
+        },
+        {
+          "code": "M00237MO16_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186609/products/M00237MO16_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "M00237MO16_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186600/products/M00237MO16_1D04.jpg",
+          "type": "D",
+          "order": 3
+        },
+        {
+          "code": "M00237MO16_1D05",
+          "url": "https://d.media.kavehome.com/image/upload/v1784186599/products/M00237MO16_1D05.jpg",
+          "type": "D",
+          "order": 4
+        }
+      ],
+      "mainImage": {
+        "code": "M00237MO16_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1784186591/products/M00237MO16_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "aduma_shelf_160x65_m00237_ed01",
+          "url": "https://d.media.kavehome.com/image/upload/v1782727359/assembly-instructions/aduma-shelf-160x65-m00237-ed01.pdf",
+          "type": "D"
+        },
+        {
+          "code": "M00237MO16",
+          "url": "https://d.media.kavehome.com/raw/upload/v1786535925/3d/M00237MO16.zip",
+          "type": "3D"
+        },
+        {
+          "code": "M00237MO16",
+          "url": "https://d.media.kavehome.com/image/upload/v1786535959/ar/M00237MO16.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Aduma",
+      "categories": [
+        "Muebles",
+        "Estanterías y vitrinas"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 160.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 65.5
+        },
+        "length": {
+          "label": "Largo",
+          "value": 40.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "40.0 x 160.0 x 65.5 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con un cuchillo. Guardar el embalaje unos días para en caso de retorno y mantener las instrucciones de montaje para posibles consultas."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "70% MDF (tablero de fibra de densidad media), 30% Madera de haya (Fagus Sylvatica) - Lacado en PU (Poliuretano)"
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Estantería Aduma DM lacado granate con acabado brillante FSC 100% 160 x 65 cm",
+            "colors": "No disponible",
+            "mainColor": "garnet",
+            "size": "",
+            "length": 40.0,
+            "width": 160.0,
+            "height": 65.5,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/estanteria-aduma-dm-lacado-granate-con-acabado-brillante-fsc-100-160-x-65-cm",
+            "slug": "estanteria-aduma-dm-lacado-granate-con-acabado-brillante-fsc-100-160-x-65-cm",
+            "price": "499.00",
+            "sku": "M00237MO16",
+            "quantity": 205,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Estantería Aduma de chapa de roble con acabado ebonizado FSC 100% 160 x 65 cm",
+            "colors": "No disponible",
+            "mainColor": "dark brown",
+            "size": "",
+            "length": 40.0,
+            "width": 160.0,
+            "height": 65.5,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/estanteria-aduma-de-chapa-de-roble-con-acabado-ebonizado-fsc-100-160-x-65-cm",
+            "slug": "estanteria-aduma-de-chapa-de-roble-con-acabado-ebonizado-fsc-100-160-x-65-cm",
+            "price": "499.00",
+            "sku": "M00237MO09",
+            "quantity": 465,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Estantería Aduma de chapa de roble con acabado tono natural FSC 100% 160 x 65 cm",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 40.0,
+            "width": 160.0,
+            "height": 65.5,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/estanteria-aduma-de-chapa-de-roble-con-acabado-tono-natural-fsc-100-160-x-65-cm",
+            "slug": "estanteria-aduma-de-chapa-de-roble-con-acabado-tono-natural-fsc-100-160-x-65-cm",
+            "price": "499.00",
+            "sku": "M00237MO12",
+            "quantity": 369,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "499.00",
+        "hasMatchMe": false,
+        "titleEn": "Aduma maroon glossy-finish lacquered MDF shelving unit FSC 100% 160 x 65 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1786535959/ar/M00237MO16.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "RCC2100PFP",
+      "title": "Recambio set de 4 protecciones para patas Inti",
+      "description": "",
+      "slug": "recambio-set-de-4-protecciones-para-patas-inti",
+      "stock": 110,
+      "price": 5.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [],
+      "mainImage": null,
+      "documents": [],
+      "collection": "Inti",
+      "categories": [],
+      "tags": [],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 1.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 1.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 1.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "1.0 x 1.0 x 1.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "",
+          "value": null
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": " - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "5.99",
+        "hasMatchMe": false,
+        "titleEn": "Replacement set of 4 Inti leg protectors"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "L00413MR10",
+      "title": "Lámpara de pie Ubira de madera de fresno con acabado oscuro y pantalla de lino",
+      "description": "Ubira aporta presencia y carácter a cualquier estancia gracias a su estructura de madera de fresno y su base en forma de trípode, que aporta estabilidad y refuerza su personalidad decorativa. Una combinación que realza su silueta y la convierte en una pieza fácil de integrar en salones, dormitorios o rincones de lectura. Su diseño limpio y estilizado suma elegancia sin recargar el espacio.\n\nUna pieza decorativa y funcional, pensada para vestir el espacio con estilo y aportar una luz agradable en el día a día.",
+      "slug": "lampara-de-pie-ubira-de-madera-de-fresno-con-acabado-oscuro-y-pantalla-de-lino",
+      "stock": 278,
+      "price": 339.0,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "L00413MR10_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1782128647/products/L00413MR10_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S123_046",
+          "url": "https://d.media.kavehome.com/image/upload/v1785498201/ambiences/A26S123_046.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "L00413MR10_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1782128665/products/L00413MR10_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "L00413MR10_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1782128657/products/L00413MR10_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "L00413MR10_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1782128653/products/L00413MR10_1D03.jpg",
+          "type": "D",
+          "order": 2
+        },
+        {
+          "code": "L00413MR10_1D04",
+          "url": "https://d.media.kavehome.com/image/upload/v1782129084/products/L00413MR10_1D04.jpg",
+          "type": "D",
+          "order": 3
+        }
+      ],
+      "mainImage": {
+        "code": "L00413MR10_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1782128647/products/L00413MR10_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "L00413MR10",
+          "url": "https://d.media.kavehome.com/image/upload/v1786698799/ar/L00413MR10.glb",
+          "type": "AR"
+        },
+        {
+          "code": "L00413MR10",
+          "url": "https://d.media.kavehome.com/raw/upload/v1786698773/3d/L00413MR10.zip",
+          "type": "3D"
+        }
+      ],
+      "collection": "Ubira",
+      "categories": [
+        "Iluminación",
+        "Lámparas de pie"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 50.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 150.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 50.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "50.0 x 50.0 x 150.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con un cuchillo. Guardar el embalaje unos días para en caso de retorno y mantener las instrucciones de montaje para posibles consultas."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "75% Madera de fresno (Fraxinus spp.), 20% Lino, 5% Acero - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Lámpara de pie Ubira de madera de fresno con acabado oscuro y pantalla de lino",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 50.0,
+            "width": 50.0,
+            "height": 150.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/lampara-de-pie-ubira-de-madera-de-fresno-con-acabado-oscuro-y-pantalla-de-lino",
+            "slug": "lampara-de-pie-ubira-de-madera-de-fresno-con-acabado-oscuro-y-pantalla-de-lino",
+            "price": "339.00",
+            "sku": "L00413MR10",
+            "quantity": 278,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Lámpara de pie Ubira de madera de roble con acabado negro y pantalla de lino",
+            "colors": "No disponible",
+            "mainColor": "black",
+            "size": "",
+            "length": 50.0,
+            "width": 50.0,
+            "height": 150.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/lampara-de-pie-ubira-de-madera-de-roble-con-acabado-negro-y-pantalla-de-lino",
+            "slug": "lampara-de-pie-ubira-de-madera-de-roble-con-acabado-negro-y-pantalla-de-lino",
+            "price": "339.00",
+            "sku": "L00414MR01",
+            "quantity": 205,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Lámpara de pie Ubira de madera de fresno y pantalla de lino",
+            "colors": "No disponible",
+            "mainColor": "brown",
+            "size": "",
+            "length": 50.0,
+            "width": 50.0,
+            "height": 150.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/lampara-de-pie-ubira-de-madera-de-fresno-y-pantalla-de-lino",
+            "slug": "lampara-de-pie-ubira-de-madera-de-fresno-y-pantalla-de-lino",
+            "price": "339.00",
+            "sku": "L00412MR11",
+            "quantity": 343,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "339.00",
+        "hasMatchMe": false,
+        "titleEn": "Ubira ash wood floor lamp with dark finish and linen lampshade"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1786698799/ar/L00413MR10.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Lámpara de pie de madera de fresno con acabado oscuro y pantalla de lino.",
+        "Compatible con bombilla E27. Se vende por separado."
+      ]
+    },
+    {
+      "sku": "CC5212M50",
+      "title": "Patas de chapa de fresno acabado natural para silla Konna",
+      "description": "",
+      "slug": "patas-de-chapa-de-fresno-acabado-natural-para-silla-konna",
+      "stock": 2009,
+      "price": 89.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [],
+      "mainImage": null,
+      "documents": [],
+      "collection": "Konna",
+      "categories": [
+        "Sillas",
+        "Sillas de comedor"
+      ],
+      "tags": [],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 55.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 50.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 58.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "58.0 x 55.0 x 50.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "",
+          "value": null
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "30% Madera de fresno (Fraxinus spp.), 30% Contrachapado, 30% Acero, 5% Tejido, 5% Espuma (poliuretano) - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": []
+      },
+      "analyticsInfo": {
+        "effectivePrice": "89.99",
+        "hasMatchMe": false,
+        "titleEn": "Legs with a natural ash wood veneer finish for the Konna chair"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": null,
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": []
+    },
+    {
+      "sku": "L00597KK19",
+      "title": "Aplique de pared Ceren de cerámica verde 13 cm",
+      "description": "Esta colección de lámparas de cerámica destaca por sus formas limpias y su presencia decorativa, capaz de aportar carácter a cualquier estancia. La cerámica aporta una textura cálida y elegante, con acabados que realzan la luz y crean una atmósfera acogedora tanto encendidas como apagadas.\n\nDiseñadas para integrarse con facilidad en distintos estilos de interior, combinan funcionalidad y estética en una sola pieza. Su diseño equilibrado las convierte en una opción versátil para salones, dormitorios o zonas de lectura, aportando personalidad sin recargar el espacio.",
+      "slug": "aplique-de-pared-ceren-de-ceramica-verde-13-cm",
+      "stock": 498,
+      "price": 25.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "L00597KK19_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847552/products/L00597KK19_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "L00597KK19_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847564/products/L00597KK19_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "L00597KK19_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847558/products/L00597KK19_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "L00597KK19_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847561/products/L00597KK19_1D03.jpg",
+          "type": "D",
+          "order": 2
+        }
+      ],
+      "mainImage": {
+        "code": "L00597KK19_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1781847552/products/L00597KK19_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "L00597KK19",
+          "url": "https://d.media.kavehome.com/raw/upload/v1785490709/3d/L00597KK19.zip",
+          "type": "3D"
+        },
+        {
+          "code": "L00597KK19",
+          "url": "https://d.media.kavehome.com/image/upload/v1785490740/ar/L00597KK19.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Ceren",
+      "categories": [
+        "Iluminación",
+        "Apliques de pared"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 12.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 14.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 6.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "6.0 x 12.0 x 14.0 cm"
+        },
+        "technique": {
+          "label": "Técnica",
+          "value": ""
+        },
+        "edition": {
+          "label": "Edición",
+          "value": ""
+        },
+        "descriptiveQuote": {
+          "label": "Cita descriptiva",
+          "value": ""
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "Autor de la cita descriptiva",
+          "value": ""
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Cerámico - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Aplique de pared Ceren de cerámica verde 13 cm",
+            "colors": "No disponible",
+            "mainColor": "green",
+            "size": "",
+            "length": 6.0,
+            "width": 12.0,
+            "height": 14.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-verde-13-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-verde-13-cm",
+            "price": "25.99",
+            "sku": "L00597KK19",
+            "quantity": 498,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Aplique de pared Ceren de cerámica beige 13 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 6.0,
+            "width": 12.0,
+            "height": 14.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-beige-13-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-beige-13-cm",
+            "price": "25.99",
+            "sku": "L00597KK12",
+            "quantity": 490,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Aplique de pared Ceren de cerámica blanco 13 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 6.0,
+            "width": 12.0,
+            "height": 14.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-blanco-13-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-blanco-13-cm",
+            "price": "25.99",
+            "sku": "L00597KK05",
+            "quantity": 369,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "25.99",
+        "hasMatchMe": false,
+        "titleEn": "Ceren green ceramic wall lamp 13 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1785490740/ar/L00597KK19.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Aplique de pared de cerámica.",
+        "Compatible con bombilla G9 máx. 25W. Se vende por separado."
+      ]
+    },
+    {
+      "sku": "L00597KK12",
+      "title": "Aplique de pared Ceren de cerámica beige 13 cm",
+      "description": "Esta colección de lámparas de cerámica destaca por sus formas limpias y su presencia decorativa, capaz de aportar carácter a cualquier estancia. La cerámica aporta una textura cálida y elegante, con acabados que realzan la luz y crean una atmósfera acogedora tanto encendidas como apagadas.\n\nDiseñadas para integrarse con facilidad en distintos estilos de interior, combinan funcionalidad y estética en una sola pieza. Su diseño equilibrado las convierte en una opción versátil para salones, dormitorios o zonas de lectura, aportando personalidad sin recargar el espacio.",
+      "slug": "aplique-de-pared-ceren-de-ceramica-beige-13-cm",
+      "stock": 490,
+      "price": 25.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "L00597KK12_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1788161803/products/L00597KK12_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "L00597KK12_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1782741353/products/L00597KK12_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "L00597KK12_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1788161807/products/L00597KK12_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "L00597KK12_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1788161807/products/L00597KK12_1D03.jpg",
+          "type": "D",
+          "order": 2
+        }
+      ],
+      "mainImage": {
+        "code": "L00597KK12_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1788161803/products/L00597KK12_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "L00597KK12",
+          "url": "https://d.media.kavehome.com/raw/upload/v1785490708/3d/L00597KK12.zip",
+          "type": "3D"
+        },
+        {
+          "code": "L00597KK12",
+          "url": "https://d.media.kavehome.com/image/upload/v1785490740/ar/L00597KK12.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Ceren",
+      "categories": [
+        "Iluminación",
+        "Apliques de pared"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 12.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 14.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 6.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "6.0 x 12.0 x 14.0 cm"
+        },
+        "technique": {
+          "label": "",
+          "value": null
+        },
+        "edition": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuote": {
+          "label": "",
+          "value": null
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "",
+          "value": null
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Cerámico - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Aplique de pared Ceren de cerámica verde 13 cm",
+            "colors": "No disponible",
+            "mainColor": "green",
+            "size": "",
+            "length": 6.0,
+            "width": 12.0,
+            "height": 14.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-verde-13-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-verde-13-cm",
+            "price": "25.99",
+            "sku": "L00597KK19",
+            "quantity": 498,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Aplique de pared Ceren de cerámica beige 13 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 6.0,
+            "width": 12.0,
+            "height": 14.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-beige-13-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-beige-13-cm",
+            "price": "25.99",
+            "sku": "L00597KK12",
+            "quantity": 490,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Aplique de pared Ceren de cerámica blanco 13 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 6.0,
+            "width": 12.0,
+            "height": 14.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-blanco-13-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-blanco-13-cm",
+            "price": "25.99",
+            "sku": "L00597KK05",
+            "quantity": 369,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "25.99",
+        "hasMatchMe": false,
+        "titleEn": "Ceren beige ceramic wall lamp 13 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1785490740/ar/L00597KK12.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Aplique de pared de cerámica.",
+        "Compatible con bombilla G9 máx. 25W. Se vende por separado."
+      ]
+    },
+    {
+      "sku": "L00597KK05",
+      "title": "Aplique de pared Ceren de cerámica blanco 13 cm",
+      "description": "Esta colección de lámparas de cerámica destaca por sus formas limpias y su presencia decorativa, capaz de aportar carácter a cualquier estancia. La cerámica aporta una textura cálida y elegante, con acabados que realzan la luz y crean una atmósfera acogedora tanto encendidas como apagadas.\n\nDiseñadas para integrarse con facilidad en distintos estilos de interior, combinan funcionalidad y estética en una sola pieza. Su diseño equilibrado las convierte en una opción versátil para salones, dormitorios o zonas de lectura, aportando personalidad sin recargar el espacio.",
+      "slug": "aplique-de-pared-ceren-de-ceramica-blanco-13-cm",
+      "stock": 369,
+      "price": 25.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "L00597KK05_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847552/products/L00597KK05_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "L00597KK05_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847566/products/L00597KK05_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "L00597KK05_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847558/products/L00597KK05_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "L00597KK05_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847561/products/L00597KK05_1D03.jpg",
+          "type": "D",
+          "order": 2
+        }
+      ],
+      "mainImage": {
+        "code": "L00597KK05_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1781847552/products/L00597KK05_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "L00597KK05",
+          "url": "https://d.media.kavehome.com/raw/upload/v1785490704/3d/L00597KK05.zip",
+          "type": "3D"
+        },
+        {
+          "code": "L00597KK05",
+          "url": "https://d.media.kavehome.com/image/upload/v1785490741/ar/L00597KK05.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Ceren",
+      "categories": [
+        "Iluminación",
+        "Apliques de pared"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 12.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 14.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 6.0
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "6.0 x 12.0 x 14.0 cm"
+        },
+        "technique": {
+          "label": "Técnica",
+          "value": ""
+        },
+        "edition": {
+          "label": "Edición",
+          "value": ""
+        },
+        "descriptiveQuote": {
+          "label": "Cita descriptiva",
+          "value": ""
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "Autor de la cita descriptiva",
+          "value": ""
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Cerámico - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Aplique de pared Ceren de cerámica verde 13 cm",
+            "colors": "No disponible",
+            "mainColor": "green",
+            "size": "",
+            "length": 6.0,
+            "width": 12.0,
+            "height": 14.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-verde-13-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-verde-13-cm",
+            "price": "25.99",
+            "sku": "L00597KK19",
+            "quantity": 498,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Aplique de pared Ceren de cerámica beige 13 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 6.0,
+            "width": 12.0,
+            "height": 14.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-beige-13-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-beige-13-cm",
+            "price": "25.99",
+            "sku": "L00597KK12",
+            "quantity": 490,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Aplique de pared Ceren de cerámica blanco 13 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 6.0,
+            "width": 12.0,
+            "height": 14.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-blanco-13-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-blanco-13-cm",
+            "price": "25.99",
+            "sku": "L00597KK05",
+            "quantity": 369,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "25.99",
+        "hasMatchMe": false,
+        "titleEn": "Ceren white ceramic wall lamp 13 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1785490741/ar/L00597KK05.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Aplique de pared de cerámica.",
+        "Compatible con bombilla G9 máx. 25W. Se vende por separado."
+      ]
+    },
+    {
+      "sku": "L00596KK19",
+      "title": "Aplique de pared Ceren de cerámica verde 21 cm",
+      "description": "Esta colección de lámparas de cerámica destaca por sus formas limpias y su presencia decorativa, capaz de aportar carácter a cualquier estancia. La cerámica aporta una textura cálida y elegante, con acabados que realzan la luz y crean una atmósfera acogedora tanto encendidas como apagadas.\n\nDiseñadas para integrarse con facilidad en distintos estilos de interior, combinan funcionalidad y estética en una sola pieza. Su diseño equilibrado las convierte en una opción versátil para salones, dormitorios o zonas de lectura, aportando personalidad sin recargar el espacio.",
+      "slug": "aplique-de-pared-ceren-de-ceramica-verde-21-cm",
+      "stock": 379,
+      "price": 29.99,
+      "ecoPart": 0.0,
+      "salePrice": null,
+      "dimensionsImage": null,
+      "minUnitsToSell": 1,
+      "images": [
+        {
+          "code": "L00596KK19_1V01",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847553/products/L00596KK19_1V01.jpg",
+          "type": "V",
+          "order": 0
+        },
+        {
+          "code": "A26S115_049",
+          "url": "https://d.media.kavehome.com/image/upload/v1785233878/ambiences/A26S115_049.jpg",
+          "type": "A",
+          "order": 0
+        },
+        {
+          "code": "L00596KK19_1D01",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847565/products/L00596KK19_1D01.jpg",
+          "type": "D",
+          "order": 0
+        },
+        {
+          "code": "L00596KK19_1D02",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847558/products/L00596KK19_1D02.jpg",
+          "type": "D",
+          "order": 1
+        },
+        {
+          "code": "L00596KK19_1D03",
+          "url": "https://d.media.kavehome.com/image/upload/v1781847564/products/L00596KK19_1D03.jpg",
+          "type": "D",
+          "order": 2
+        }
+      ],
+      "mainImage": {
+        "code": "L00596KK19_1V01",
+        "url": "https://d.media.kavehome.com/image/upload/v1781847553/products/L00596KK19_1V01.jpg",
+        "type": "V",
+        "order": 0
+      },
+      "documents": [
+        {
+          "code": "L00596KK19",
+          "url": "https://d.media.kavehome.com/raw/upload/v1785490704/3d/L00596KK19.zip",
+          "type": "3D"
+        },
+        {
+          "code": "L00596KK19",
+          "url": "https://d.media.kavehome.com/image/upload/v1785490741/ar/L00596KK19.glb",
+          "type": "AR"
+        }
+      ],
+      "collection": "Ceren",
+      "categories": [
+        "Iluminación",
+        "Apliques de pared"
+      ],
+      "tags": [
+        {
+          "label": "NEW IN",
+          "variant": "light-grey",
+          "textStyle": "uppercase"
+        }
+      ],
+      "isCustomisable": false,
+      "attributes": {
+        "width": {
+          "label": "Ancho",
+          "value": 19.0
+        },
+        "height": {
+          "label": "Altura",
+          "value": 21.0
+        },
+        "length": {
+          "label": "Largo",
+          "value": 9.5
+        },
+        "sizes": {
+          "label": "Medidas",
+          "value": "9.5 x 19.0 x 21.0 cm"
+        },
+        "technique": {
+          "label": "Técnica",
+          "value": ""
+        },
+        "edition": {
+          "label": "Edición",
+          "value": ""
+        },
+        "descriptiveQuote": {
+          "label": "Cita descriptiva",
+          "value": ""
+        },
+        "descriptiveQuoteAuthor": {
+          "label": "Autor de la cita descriptiva",
+          "value": ""
+        },
+        "unpackingSuggestions": {
+          "label": "Recomendaciones para el desembalaje",
+          "value": "Vigilar al abrir con cuchillo. Mantener el embalaje unos días en caso de devolución."
+        },
+        "structuredMaterials": {
+          "label": "Materiales estructurados",
+          "value": "100% Cerámico - "
+        }
+      },
+      "brothers": {
+        "sizes": [],
+        "colors": [
+          {
+            "title": "Aplique de pared Ceren de cerámica verde 21 cm",
+            "colors": "No disponible",
+            "mainColor": "green",
+            "size": "",
+            "length": 9.5,
+            "width": 19.0,
+            "height": 21.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-verde-21-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-verde-21-cm",
+            "price": "29.99",
+            "sku": "L00596KK19",
+            "quantity": 379,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Aplique de pared Ceren de cerámica beige 21 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 9.5,
+            "width": 19.0,
+            "height": 21.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-beige-21-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-beige-21-cm",
+            "price": "29.99",
+            "sku": "L00596KK12",
+            "quantity": 386,
+            "colorId": "nodisponible"
+          },
+          {
+            "title": "Aplique de pared Ceren de cerámica blanco 21 cm",
+            "colors": "No disponible",
+            "mainColor": "beige",
+            "size": "",
+            "length": 9.5,
+            "width": 19.0,
+            "height": 21.0,
+            "image": "https://d.media.kavehome.com/products/placeholder.jpg",
+            "url": "/es/es/p/aplique-de-pared-ceren-de-ceramica-blanco-21-cm",
+            "slug": "aplique-de-pared-ceren-de-ceramica-blanco-21-cm",
+            "price": "29.99",
+            "sku": "L00596KK05",
+            "quantity": 271,
+            "colorId": "nodisponible"
+          }
+        ]
+      },
+      "analyticsInfo": {
+        "effectivePrice": "29.99",
+        "hasMatchMe": true,
+        "titleEn": "Ceren green ceramic wall lamp 21 cm"
+      },
+      "isPremium": false,
+      "material": null,
+      "secondaryMaterial": null,
+      "materialHighlight": null,
+      "requiresMaintenance": false,
+      "teaserDescription": "",
+      "teaserAssets": {
+        "urlMobile": null,
+        "urlDesktop": null
+      },
+      "storytellings": [],
+      "isTopHeavy": false,
+      "augmentedReality": "https://d.media.kavehome.com/image/upload/v1785490741/ar/L00596KK19.glb",
+      "videos": [],
+      "returnPolicy": "normal",
+      "bulletPoints": [
+        "Aplique de pared de cerámica.",
+        "Compatible con bombilla E14 máx. 25W. Se vende por separado."
+      ]
+    }
+  ]
+}
