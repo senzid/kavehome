@@ -1,11 +1,11 @@
 import Image from "next/image"
-import type { Category } from "@/modules/home/categories/category"
+import type { Category } from "@/modules/home/categories/types"
 
 type CategoryCardProps = {
   category: Category
 }
 
-export default function CategoryCard({ category }: CategoryCardProps) {
+const CategoryCard = ({ category }: CategoryCardProps) => {
   const { name, highlightImage } = category
 
   if (!highlightImage) return null
@@ -25,3 +25,5 @@ export default function CategoryCard({ category }: CategoryCardProps) {
     </article>
   )
 }
+
+export default CategoryCard

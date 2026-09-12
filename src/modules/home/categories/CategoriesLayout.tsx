@@ -1,17 +1,22 @@
-import type { Category } from "@/modules/home/categories/category"
+import type { Category } from "@/modules/home/categories/types"
+import Carousel from "@/components/ui/Carousel"
 import CategoryCard from "./CategoryCard"
-import CategoriesScroller from "./CategoriesScroller"
 
 type CategoriesLayoutProps = {
   categories: Category[]
 }
 
-export default function CategoriesLayout({ categories }: CategoriesLayoutProps) {
+const CategoriesLayout = ({ categories }: CategoriesLayoutProps) => {
   if (categories.length === 0) return null
 
   return (
     <section aria-label="Categorías" className="flex w-full flex-col gap-6 px-6 py-10 md:px-18 md:py-26">
-      <CategoriesScroller>
+      <Carousel
+        title="Todo para tu hogar"
+        prevLabel="Ver categorías anteriores"
+        nextLabel="Ver categorías siguientes"
+        listClassName="gap-4 pb-2 md:grid md:grid-cols-3 md:gap-6 md:overflow-visible md:pb-0 lg:grid-cols-4"
+      >
         {categories.map((category) => (
           <li
             key={category.id}
@@ -20,7 +25,9 @@ export default function CategoriesLayout({ categories }: CategoriesLayoutProps) 
             <CategoryCard category={category} />
           </li>
         ))}
-      </CategoriesScroller>
+      </Carousel>
     </section>
   )
 }
+
+export default CategoriesLayout

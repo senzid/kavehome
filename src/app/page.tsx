@@ -1,12 +1,15 @@
 import Header from "@/components/layout/header/Header";
-import Hero from "@/modules/home/Hero";
+import Hero from "@/modules/home/hero/Hero";
 import CategoriesLayout from "@/modules/home/categories/CategoriesLayout";
 import { getHomeCategories } from "@/modules/home/categories/categories";
+import { getBlogCovers } from "@/modules/blog/blog";
+import BlogLayout from "@/modules/blog/BlogLayout";
 
 export const revalidate = 60 * 60 * 24;
 
 export default async function Home() {
   const categories = await getHomeCategories();
+  const blogPosts = await getBlogCovers();
 
   return (
     <>
@@ -16,6 +19,7 @@ export default async function Home() {
           <Hero />
         </div>
         <CategoriesLayout categories={categories} />
+        <BlogLayout blogPosts={blogPosts} />
       </main>
     </>
   );
