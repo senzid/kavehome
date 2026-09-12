@@ -5,7 +5,7 @@ import { getHomeCategories } from "@/modules/home/categories/categories";
 import { getBlogCovers } from "@/modules/blog/blog";
 import BlogLayout from "@/modules/blog/BlogLayout";
 
-export const revalidate = 60 * 60 * 24;
+export const revalidate = 86400; // 24h
 
 export default async function Home() {
   const categories = await getHomeCategories();
