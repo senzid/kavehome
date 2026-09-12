@@ -3,10 +3,10 @@
 import { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
+import FavoriteToggle from "@/modules/products/favorites/FavoriteToggle"
 import { formatPrice } from "@/lib/currencyFormat"
 import { addToCart } from "@/modules/products/details/addToCart"
-import ProductValueProps from "@/modules/products/details/ProductValueProps"
-import type { ProductDetail } from "@/modules/products/types"
+import type { Product, ProductDetail } from "@/modules/products/types"
 
 type ProductInfoProps = {
   product: ProductDetail
@@ -14,10 +14,22 @@ type ProductInfoProps = {
 
 const QUANTITY_OPTIONS = Array.from({ length: 10 }, (_, index) => index + 1)
 
+function toFavoriteProduct(product: ProductDetail): Product {
+  return {
+    sku: product.sku,
+    title: product.title,
+    description: product.description,
+    image: product.image,
+    price: product.price,
+    salePrice: product.salePrice,
+  }
+}
+
 const ProductInfo = ({ product }: ProductInfoProps) => {
   const { title, description, price, salePrice } = product
   const displayPrice = salePrice ?? price
   const [quantity, setQuantity] = useState(1)
+  const favoriteProduct = toFavoriteProduct(product)
 
   const handleAddToCart = () => {
     addToCart(quantity)
@@ -28,15 +40,7 @@ const ProductInfo = ({ product }: ProductInfoProps) => {
       <div className="flex flex-col gap-3">
         <div className="flex items-start justify-between gap-4">
           <h1 className="text-2xl font-semibold md:text-3xl">{title}</h1>
-          <button type="button" aria-label="Añadir a favoritos" className="shrink-0">
-            <Image
-              src="/icons/heart.svg"
-              alt=""
-              width={24}
-              height={40}
-              aria-hidden
-            />
-          </button>
+          <FavoriteToggle product={favoriteProduct} className="shrink-0" />
         </div>
 
         {description ? (

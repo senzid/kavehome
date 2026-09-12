@@ -1,4 +1,3 @@
-import Header from "@/components/layout/header/Header";
 import Hero from "@/modules/home/hero/Hero";
 import CategoriesLayout from "@/modules/home/categories/CategoriesLayout";
 import { getHomeCategories } from "@/modules/home/categories/categories";
@@ -12,15 +11,12 @@ export default async function Home() {
   const blogPosts = await getBlogCovers();
 
   return (
-    <>
-      <Header />
-      <main>
-        <div className="relative flex h-[calc(100dvh-var(--header-height))] min-h-0 flex-col">
-          <Hero />
-        </div>
-        <CategoriesLayout categories={categories} />
-        <BlogLayout blogPosts={blogPosts} />
-      </main>
-    </>
+    <main>
+      <div className="relative flex h-[calc(100dvh-var(--header-height))] min-h-0 flex-col">
+        <Hero />
+      </div>
+      <CategoriesLayout categories={categories} />
+      <BlogLayout blogPosts={blogPosts} />
+    </main>
   );
 }

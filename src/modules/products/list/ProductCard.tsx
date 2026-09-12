@@ -1,7 +1,8 @@
 import Image from "next/image"
+import Link from "next/link"
+import FavoriteToggle from "@/modules/products/favorites/FavoriteToggle"
 import { formatPrice } from "@/lib/currencyFormat"
 import type { Product } from "@/modules/products/types"
-import Link from "next/link"
 
 type ProductCardProps = {
   product: Product
@@ -14,10 +15,10 @@ const ProductCard = ({ product }: ProductCardProps) => {
   return (
     <article className="flex w-full flex-col gap-2">
       <div className="relative aspect-4/5 w-full overflow-hidden bg-neutral-100">
-      <>
-        <button className="absolute z-10 top-0 right-1">
-          <Image src="/icons/heart.svg" alt="Añadir a favoritos" width={24} height={40}/>
-        </button>
+        <FavoriteToggle
+          product={product}
+          className="absolute top-0 right-1 z-10"
+        />
         {image ? (
           <Image
             src={image}
@@ -27,7 +28,6 @@ const ProductCard = ({ product }: ProductCardProps) => {
             className="object-cover"
           />
         ) : null}
-        </>
       </div>
       <div className="flex flex-col gap-1.5 p-2">
         <div className="flex items-center justify-between gap-4">

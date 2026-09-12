@@ -1,6 +1,5 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
-import Header from "@/components/layout/header/Header"
 import { getProductBySku } from "@/modules/products/products"
 import ProductDetail from "@/modules/products/details/ProductDetail"
 
@@ -38,11 +37,8 @@ export default async function ProductPage({ params }: Props) {
   }
 
   return (
-    <>
-      <Header />
-      <main>
-        <ProductDetail product={product} />
-      </main>
-    </>
+    <main>
+      <ProductDetail product={product} />
+    </main>
   )
 }
