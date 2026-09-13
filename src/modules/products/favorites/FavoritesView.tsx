@@ -13,7 +13,7 @@ const FavoritesView = () => {
       <div className="grid grid-cols-2 gap-x-1 gap-y-4 px-0 md:grid-cols-3 lg:grid-cols-4">
         {Array.from({ length: 4 }, (_, index) => (
           <div key={index} className="flex flex-col gap-2">
-            <MediaFrame className="animate-pulse" />
+            <MediaFrame empty="blank" className="animate-pulse" />
             <div className="h-4 w-3/4 animate-pulse bg-neutral-100" />
             <div className="h-3 w-1/2 animate-pulse bg-neutral-100" />
           </div>

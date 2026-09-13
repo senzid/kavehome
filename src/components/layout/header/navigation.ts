@@ -9,8 +9,7 @@ type FavNavItem = NavItem & {
 
 export const desktopNavigation: NavItem[] = [
   { name: "Home", href: "/" },
-  { name: "Categorías", href: "/products" },
-  { name: "Artículos", href: "/products" },
+  { name: "Productos", href: "/products" },
 ]
 
 export const favoritesNavigation: FavNavItem[] = [
