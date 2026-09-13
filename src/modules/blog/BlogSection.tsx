@@ -6,7 +6,7 @@ type BlogSectionProps = {
   blogPosts: BlogCover[]
 }
 
-const BlogSection = ({ blogPosts }: BlogSectionProps) => {
+export default function BlogSection({ blogPosts }: BlogSectionProps) {
   return (
     <section aria-label="Blog" className="flex w-full flex-col gap-6 pb-18">
       <Carousel
@@ -25,5 +25,3 @@ const BlogSection = ({ blogPosts }: BlogSectionProps) => {
     </section>
   )
 }
-
-export default BlogSection

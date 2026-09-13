@@ -7,7 +7,7 @@ type ProductDetailViewProps = {
   product: ProductDetail
 }
 
-const ProductDetailView = ({ product }: ProductDetailViewProps) => {
+export default function ProductDetailView({ product }: ProductDetailViewProps) {
   return (
     <article>
       <div className="flex w-full flex-col pb-8 md:flex-row md:py-8">
@@ -26,5 +26,3 @@ const ProductDetailView = ({ product }: ProductDetailViewProps) => {
     </article>
   )
 }
-
-export default ProductDetailView

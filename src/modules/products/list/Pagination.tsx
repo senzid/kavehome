@@ -7,7 +7,7 @@ type PaginationProps = {
   totalPages: number
 }
 
-const Pagination = ({ currentPage, totalPages }: PaginationProps) => {
+export default function Pagination({ currentPage, totalPages }: PaginationProps) {
   if (totalPages <= 1) return null
 
   const visiblePages = getVisiblePages(currentPage, totalPages)
@@ -117,5 +117,3 @@ const Pagination = ({ currentPage, totalPages }: PaginationProps) => {
     </nav>
   )
 }
-
-export default Pagination

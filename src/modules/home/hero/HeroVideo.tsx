@@ -36,7 +36,7 @@ const pauseIcon = (
   </svg>
 )
 
-const HeroVideo = () => {
+export default function HeroVideo() {
   const videoRef = useRef<HTMLVideoElement>(null)
   const [isPlaying, setIsPlaying] = useState(false)
 
@@ -93,5 +93,3 @@ const HeroVideo = () => {
     </>
   )
 }
-
-export default HeroVideo

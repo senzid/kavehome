@@ -4,7 +4,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { desktopNavigation, favoritesNavigation } from './navigation'
 
-const Header = () => {
+export default function Header() {
   const [hidden, setHidden] = useState(false)
   useEffect(() => {
     let lastY = window.scrollY
@@ -40,5 +40,3 @@ const Header = () => {
     </header>
   )
 }
-
-export default Header

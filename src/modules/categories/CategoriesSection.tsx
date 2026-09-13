@@ -6,7 +6,7 @@ type CategoriesSectionProps = {
   categories: Category[]
 }
 
-const CategoriesSection = ({ categories }: CategoriesSectionProps) => {
+export default function CategoriesSection({ categories }: CategoriesSectionProps) {
   if (categories.length === 0) return null
 
   return (
@@ -29,5 +29,3 @@ const CategoriesSection = ({ categories }: CategoriesSectionProps) => {
     </section>
   )
 }
-
-export default CategoriesSection

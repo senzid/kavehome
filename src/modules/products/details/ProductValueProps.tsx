@@ -7,7 +7,7 @@ const VALUE_PROPS = [
   { title: "Financiación sin intereses", linkLabel: "Ver opciones" },
 ] as const
 
-const ProductValueProps = () => {
+export default function ProductValueProps() {
   return (
     <ul className="flex flex-col items-center gap-6 bg-neutral-10 px-6 py-8 text-center md:flex-row md:justify-between md:px-28">
       {VALUE_PROPS.map(({ title, linkLabel }) => (
@@ -21,5 +21,3 @@ const ProductValueProps = () => {
     </ul>
   )
 }
-
-export default ProductValueProps

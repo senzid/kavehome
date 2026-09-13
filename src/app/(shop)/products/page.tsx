@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
+import PageHeader from "@/components/layout/PageHeader"
 import { buildPageMetadata } from "@/lib/seo"
 import {
   getProductsPage,
@@ -50,19 +51,12 @@ export default async function Products({ searchParams }: Props) {
   }
 
   return (
-    <main className="mx-auto w-full max-w-7xl">
-      <div className="px-6 pt-10 pb-8 flex flex-col gap-4">
-        <h1 className="text-2xl md:text-3xl">Productos</h1>
-        <p className="text-sm">
-          Descubre nuestra exclusiva gama de productos, diseñados para aportar
-          elegancia y confort a cualquier ambiente. Desde mesas de comedor
-          sofisticadas hasta opciones de jardín duraderas, cada pieza fusiona
-          funcionalidad con un diseño atractivo. Encuentra el articulo ideal
-          que complemente tu estilo.
-        </p>
-      </div>
+    <PageHeader
+      title="Productos"
+      description="Descubre nuestra exclusiva gama de productos, diseñados para aportar elegancia y confort a cualquier ambiente. Desde mesas de comedor sofisticadas hasta opciones de jardín duraderas, cada pieza fusiona funcionalidad con un diseño atractivo. Encuentra el articulo ideal que complemente tu estilo."
+    >
       <ProductsGrid products={products} />
       <Pagination currentPage={currentPage} totalPages={totalPages} />
-    </main>
+    </PageHeader>
   )
 }

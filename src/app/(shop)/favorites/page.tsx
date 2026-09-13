@@ -1,4 +1,5 @@
 import type { Metadata } from "next"
+import PageHeader from "@/components/layout/PageHeader"
 import { noIndexRobots } from "@/lib/seo"
 import { FavoritesView } from "@/modules/products"
 
@@ -9,15 +10,12 @@ export const metadata: Metadata = {
 
 export default function FavoritesPage() {
   return (
-    <main className="mx-auto w-full max-w-7xl">
-      <div className="flex flex-col gap-4 px-6 pt-10 pb-8">
-        <h1 className="text-2xl md:text-3xl">Favoritos</h1>
-        <p className="text-sm text-neutral-600">
-          Guarda los productos que más te gustan y vuelve a ellos cuando
-          quieras.
-        </p>
-      </div>
+    <PageHeader
+      title="Favoritos"
+      description="Guarda los productos que más te gustan y vuelve a ellos cuando quieras."
+      descriptionClassName="text-neutral-600"
+    >
       <FavoritesView />
-    </main>
+    </PageHeader>
   )
 }

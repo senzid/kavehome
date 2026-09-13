@@ -3,6 +3,7 @@
 import { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
+import Button from "@/components/ui/Button"
 import FavoriteToggle from "../favorites/FavoriteToggle"
 import ProductPrice from "../ProductPrice"
 import { toProductSummary } from "../toProductSummary"
@@ -82,13 +83,15 @@ const ProductInfo = ({ product }: ProductInfoProps) => {
           ))}
         </select>
 
-        <button
-          type="button"
+        <Button
+          variant="solid"
+          tone="onLight"
+          size="sm"
+          className="flex-1"
           onClick={handleAddToCart}
-          className="flex-1 bg-neutral-800 px-5 py-3 text-sm font-medium text-white hover:bg-neutral-900"
         >
           Añadir a mi cesta
-        </button>
+        </Button>
       </div>
 
       <p className="flex items-start gap-2 text-sm text-neutral-700">

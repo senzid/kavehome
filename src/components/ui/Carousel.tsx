@@ -14,14 +14,14 @@ type CarouselProps = {
   nextLabel?: string
 }
 
-const Carousel = ({
+export default function Carousel({
   children,
   title,
   scrollArrow = true,
   listClassName = "",
   prevLabel = "Ver anteriores",
   nextLabel = "Ver siguientes",
-}: CarouselProps) => {
+}: CarouselProps) {
   const listRef = useRef<HTMLUListElement>(null)
 
   const scrollByItem = (direction: -1 | 1) => {
@@ -67,5 +67,3 @@ const Carousel = ({
     </>
   )
 }
-
-export default Carousel

@@ -1,21 +1,22 @@
 import type { ComponentProps } from "react"
-import Link from "next/link"
 import {
   buttonSurfaceClassName,
   type ButtonSurfaceProps,
 } from "./buttonStyles"
 
-type ButtonLinkProps = ButtonSurfaceProps & ComponentProps<typeof Link>
+type ButtonProps = ButtonSurfaceProps & ComponentProps<"button">
 
-export default function ButtonLink({
+export default function Button({
   variant = "solid",
   tone = "onDark",
   size = "md",
   className = "",
+  type = "button",
   ...props
-}: ButtonLinkProps) {
+}: ButtonProps) {
   return (
-    <Link
+    <button
+      type={type}
       className={buttonSurfaceClassName({ variant, tone, size, className })}
       {...props}
     />

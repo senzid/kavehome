@@ -27,7 +27,7 @@ const HeartIcon = ({ filled }: { filled: boolean }) => (
   </svg>
 )
 
-const FavoriteToggle = ({ product, className }: FavoriteToggleProps) => {
+export default function FavoriteToggle({ product, className }: FavoriteToggleProps) {
   const { isReady, isFavorite, toggleFavorite } = useFavorites()
   const active = isReady && isFavorite(product.sku)
 
@@ -52,5 +52,3 @@ const FavoriteToggle = ({ product, className }: FavoriteToggleProps) => {
     </button>
   )
 }
-
-export default FavoriteToggle

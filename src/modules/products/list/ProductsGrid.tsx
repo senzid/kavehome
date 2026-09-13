@@ -5,7 +5,7 @@ type ProductsGridProps = {
   products: Product[]
 }
 
-const ProductsGrid = ({ products }: ProductsGridProps) => {
+export default function ProductsGrid({ products }: ProductsGridProps) {
   if (products.length === 0) {
     return (
       <p className="px-6 py-16 text-center text-neutral-600 md:px-18">
@@ -24,5 +24,3 @@ const ProductsGrid = ({ products }: ProductsGridProps) => {
     </ul>
   )
 }
-
-export default ProductsGrid

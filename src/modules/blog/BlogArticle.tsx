@@ -6,7 +6,7 @@ type BlogArticleProps = {
   post: Blog
 }
 
-const BlogArticle = ({ post }: BlogArticleProps) => {
+export default function BlogArticle({ post }: BlogArticleProps) {
   const { title, coverImage, content } = post
 
   return (
@@ -37,5 +37,3 @@ const BlogArticle = ({ post }: BlogArticleProps) => {
     </article>
   )
 }
-
-export default BlogArticle

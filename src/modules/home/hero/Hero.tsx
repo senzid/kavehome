@@ -1,7 +1,7 @@
 import ButtonLink from "@/components/ui/ButtonLink"
 import HeroVideo from "./HeroVideo"
 
-const Hero = () => {
+export default function Hero() {
   return (
     <div className="relative min-h-0 w-full flex-1 overflow-hidden">
       <HeroVideo />
@@ -26,5 +26,3 @@ const Hero = () => {
     </div>
   )
 }
-
-export default Hero

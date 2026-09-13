@@ -21,7 +21,7 @@ export function getDisplayPrice(
   return salePrice ?? price
 }
 
-const ProductPrice = ({ price, salePrice, className }: ProductPriceProps) => {
+export default function ProductPrice({ price, salePrice, className }: ProductPriceProps) {
   const displayPrice = getDisplayPrice(price, salePrice)
   if (displayPrice == null) return null
 
@@ -38,5 +38,3 @@ const ProductPrice = ({ price, salePrice, className }: ProductPriceProps) => {
 
   return <p className={className}>{formatPrice(displayPrice)}</p>
 }
-
-export default ProductPrice
