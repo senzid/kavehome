@@ -41,6 +41,7 @@ export function FavoritesProvider({ children }: FavoritesProviderProps) {
   const [isReady, setIsReady] = useState(false)
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setItems(readFavorites())
     setIsReady(true)
   }, [])
@@ -57,15 +58,15 @@ export function FavoritesProvider({ children }: FavoritesProviderProps) {
 
   const toggleFavorite = useCallback((product: Product) => {
     setItems((current) => {
-      if (current[product.sku]) {
-        const { [product.sku]: _removed, ...rest } = current
-        return rest
+      const next = { ...current }
+
+      if (next[product.sku]) {
+        delete next[product.sku]
+      } else {
+        next[product.sku] = toProductSummary(product)
       }
 
-      return {
-        ...current,
-        [product.sku]: toProductSummary(product),
-      }
+      return next
     })
   }, [])
 

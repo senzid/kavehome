@@ -1,19 +1,10 @@
-import ButtonLink from "@/components/ui/ButtonLink";
+import ButtonLink from "@/components/ui/ButtonLink"
+import HeroVideo from "./HeroVideo"
 
 const Hero = () => {
   return (
     <div className="relative min-h-0 w-full flex-1 overflow-hidden">
-      <video
-        autoPlay
-        muted
-        loop
-        playsInline
-        preload="metadata"
-        className="absolute top-0 left-0 h-full w-full object-cover"
-        poster="/home/desktop-cover.png"
-      >
-        <source src="/home/hero-video.mp4" type="video/mp4" />
-      </video>
+      <HeroVideo />
       <div className="absolute bottom-0 left-0 z-20 flex h-64 w-full flex-col justify-between gap-6 bg-linear-to-t from-black/20 to-transparent pb-12 pl-4 pr-4 md:h-56 md:flex-row md:px-18">
         <div className="flex h-full flex-col items-start justify-end gap-2 text-white">
           <p className="text-lg md:text-xl">New Collection</p>
@@ -33,7 +24,7 @@ const Hero = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Hero;
+export default Hero

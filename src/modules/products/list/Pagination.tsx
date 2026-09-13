@@ -24,11 +24,30 @@ const Pagination = ({ currentPage, totalPages }: PaginationProps) => {
           href={pageHref(currentPage - 1)}
           className="px-3 py-2 text-sm text-neutral-700 hover:text-black"
           rel="prev"
+          aria-label="Página anterior"
         >
-          <Image src="/icons/chevron-left.svg" alt="Anterior" width={24} height={24}/>
+          <Image
+            src="/icons/chevron-left.svg"
+            alt=""
+            width={24}
+            height={24}
+            aria-hidden
+          />
         </Link>
       ) : (
-        <Image src="/icons/chevron-left.svg" alt="Anterior" className="opacity-30" width={24} height={24}/>
+        <span
+          aria-disabled="true"
+          className="px-3 py-2 opacity-30"
+        >
+          <Image
+            src="/icons/chevron-left.svg"
+            alt=""
+            width={24}
+            height={24}
+            aria-hidden
+          />
+          <span className="sr-only">Página anterior no disponible</span>
+        </span>
       )}
 
       <ul className="flex flex-wrap items-center justify-center gap-1">
@@ -48,12 +67,14 @@ const Pagination = ({ currentPage, totalPages }: PaginationProps) => {
                   aria-current="page"
                   className="inline-flex min-w-10 items-center justify-center px-3 py-2 text-sm font-medium"
                 >
+                  <span className="sr-only">Página </span>
                   {item}
                 </span>
               ) : (
                 <Link
                   href={pageHref(item)}
                   className="inline-flex min-w-10 items-center justify-center px-3 py-2 text-sm text-neutral-700 hover:text-black"
+                  aria-label={`Ir a la página ${item}`}
                 >
                   {item}
                 </Link>
@@ -68,11 +89,30 @@ const Pagination = ({ currentPage, totalPages }: PaginationProps) => {
           href={pageHref(currentPage + 1)}
           className="px-3 py-2 text-sm text-neutral-700 hover:text-black"
           rel="next"
+          aria-label="Página siguiente"
         >
-          <Image src="/icons/chevron-right.svg" alt="Siguiente" width={24} height={24}/>
+          <Image
+            src="/icons/chevron-right.svg"
+            alt=""
+            width={24}
+            height={24}
+            aria-hidden
+          />
         </Link>
       ) : (
-        <Image src="/icons/chevron-right.svg" alt="Siguiente" className="opacity-30" width={24} height={24}/>
+        <span
+          aria-disabled="true"
+          className="px-3 py-2 opacity-30"
+        >
+          <Image
+            src="/icons/chevron-right.svg"
+            alt=""
+            width={24}
+            height={24}
+            aria-hidden
+          />
+          <span className="sr-only">Página siguiente no disponible</span>
+        </span>
       )}
     </nav>
   )
