@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
 import { BlogArticle, getBlogPost, getBlogSlugs } from "@/modules/blog"
+import { buildPageMetadata, noIndexRobots } from "@/lib/seo"
 
 export const revalidate = 86400 // 24h
 export const dynamicParams = false
@@ -19,18 +20,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await getBlogPost(slug)
 
   if (!post) {
-    return {
-      title: "Artículo no encontrado — Kavehome",
-    }
+    return { robots: noIndexRobots }
   }
 
-  return {
-    title: post.seoTitle,
+  return buildPageMetadata({
+    // seoTitle already includes brand; avoid "| Kave Home" duplication.
+    title: { absolute: post.seoTitle },
     description: post.seoDescription,
-    alternates: {
-      canonical: `/blog/${post.slug}`,
-    },
-  }
+    path: `/blog/${post.slug}`,
+    images: [post.coverImage],
+    type: "article",
+  })
 }
 
 export default async function BlogPostPage({ params }: Props) {

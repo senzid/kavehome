@@ -1,6 +1,6 @@
-import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import Header from "@/components/layout/header/Header";
+import { rootMetadata } from "@/lib/seo";
 import "./globals.css";
 
 const poppins = Poppins({
@@ -10,10 +10,7 @@ const poppins = Poppins({
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  title: "Kave Home test App",
-  description: "Aplicación de prueba para Kave Home como Frontend Challenge",
-};
+export const metadata = rootMetadata;
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (

@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
+import { buildPageMetadata } from "@/lib/seo"
 import {
   getProductsPage,
   Pagination,
@@ -14,6 +15,9 @@ type Props = {
   searchParams: ProductsSearchParams
 }
 
+const PRODUCTS_DESCRIPTION =
+  "Explora la colección de mobiliario y decoración Kave Home: diseño, confort y piezas para cada espacio."
+
 function parsePage(pageParam: string | undefined): number {
   const page = Number(pageParam)
   if (!Number.isFinite(page) || page < 1) return 1
@@ -25,16 +29,14 @@ export async function generateMetadata({
 }: Props): Promise<Metadata> {
   const { page: pageParam } = await searchParams
   const page = parsePage(pageParam)
-  const title =
-    page > 1 ? `Kavehome — Productos | Página ${page}` : "Kavehome — Productos"
-  const canonical = page > 1 ? `/products?page=${page}` : "/products"
+  const title = page > 1 ? `Productos · Página ${page}` : "Productos"
+  const path = page > 1 ? `/products?page=${page}` : "/products"
 
-  return {
+  return buildPageMetadata({
     title,
-    alternates: {
-      canonical,
-    },
-  }
+    description: PRODUCTS_DESCRIPTION,
+    path,
+  })
 }
 
 export default async function Products({ searchParams }: Props) {

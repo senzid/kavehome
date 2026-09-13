@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
+import { buildPageMetadata, noIndexRobots } from "@/lib/seo"
 import { getProductBySku, ProductDetailView } from "@/modules/products"
 
 export const revalidate = 86400 // 24h
@@ -13,18 +14,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const product = await getProductBySku(sku)
 
   if (!product) {
-    return {
-      title: "Producto no encontrado — Kavehome",
-    }
+    return { robots: noIndexRobots }
   }
 
-  return {
-    title: `${product.title} — Kavehome`,
-    description: product.description.slice(0, 160),
-    alternates: {
-      canonical: `/products/${product.sku}`,
-    },
-  }
+  const description = product.description.slice(0, 160)
+
+  return buildPageMetadata({
+    title: product.title,
+    description,
+    path: `/products/${product.sku}`,
+    images: [product.image, ...product.images],
+  })
 }
 
 export default async function ProductPage({ params }: Props) {

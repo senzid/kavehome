@@ -1,11 +1,10 @@
 import type { Metadata } from "next"
+import { noIndexRobots } from "@/lib/seo"
 import { FavoritesView } from "@/modules/products"
 
 export const metadata: Metadata = {
-  title: "Kavehome — Favoritos",
-  alternates: {
-    canonical: "/favorites",
-  },
+  title: "Favoritos",
+  robots: noIndexRobots,
 }
 
 export default function FavoritesPage() {
