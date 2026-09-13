@@ -9,14 +9,13 @@ const Hero = () => {
         loop
         playsInline
         preload="metadata"
-        className="absolute top-0 left-0 w-full h-full object-cover"
+        className="absolute top-0 left-0 h-full w-full object-cover"
         poster="/home/desktop-cover.png"
       >
         <source src="/home/hero-video.mp4" type="video/mp4" />
-        Tu navegador no soporta videos en HTML5.
       </video>
-      <div className="absolute bottom-0 left-0 w-full h-64 md:h-56 pl-4 pr-4 pb-12 md:px-18 z-50 flex flex-col gap-6 md:flex-row justify-between bg-linear-to-t from-black/20 to-transparent">
-        <div className="flex flex-col items-start justify-end h-full text-white gap-2">
+      <div className="absolute bottom-0 left-0 z-20 flex h-64 w-full flex-col justify-between gap-6 bg-linear-to-t from-black/20 to-transparent pb-12 pl-4 pr-4 md:h-56 md:flex-row md:px-18">
+        <div className="flex h-full flex-col items-start justify-end gap-2 text-white">
           <p className="text-lg md:text-xl">New Collection</p>
           <h1 className="text-4xl md:text-5xl">
             Estar fuera.
@@ -24,13 +23,17 @@ const Hero = () => {
             Una manera muy nuestra de estar.
           </h1>
         </div>
-        <div className="flex flex-row felx-start items-end gap-4">
-          <ButtonLink href="/" variant="solid">Ver editorial</ButtonLink>
-          <ButtonLink href="/" variant="outline">Ver productos</ButtonLink>
+        <div className="flex flex-row items-end gap-4">
+          <ButtonLink href="/products" variant="solid">
+            Ver editorial
+          </ButtonLink>
+          <ButtonLink href="/products" variant="solid">
+            Ver productos
+          </ButtonLink>
         </div>
       </div>
     </div>
   );
-}
+};
 
-export default Hero
+export default Hero;

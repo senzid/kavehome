@@ -1,5 +1,6 @@
 import Image from "next/image"
-import ButtonLink from "@/components/ui/ButtonLink"
+import Link from "next/link"
+import { buttonSurfaceClassName } from "@/components/ui/ButtonLink"
 import type { BlogCover } from "./types"
 
 type BlogCardProps = {
@@ -12,7 +13,7 @@ const BlogCard = ({ blogPost }: BlogCardProps) => {
   if (!coverImage) return null
 
   return (
-    <article className="relative aspect-4/5 w-full overflow-hidden bg-neutral-100">
+    <article className="group relative aspect-4/5 w-full overflow-hidden bg-neutral-100">
       <Image
         src={coverImage}
         alt={title}
@@ -22,10 +23,15 @@ const BlogCard = ({ blogPost }: BlogCardProps) => {
       />
       <div className="absolute inset-0 flex flex-col items-start justify-between p-6 md:p-8">
         <h3 className="text-2xl text-white md:text-3xl">{title}</h3>
-        <ButtonLink href={`/blog/${slug}`} variant="solid">
+        <span className={buttonSurfaceClassName("solid", "group-hover:opacity-80")} aria-hidden>
           {linkText}
-        </ButtonLink>
+        </span>
       </div>
+      <Link
+        href={`/blog/${slug}`}
+        className="absolute inset-0 z-1 focus-visible:outline-2 focus-visible:outline-offset-2"
+        aria-label={linkText}
+      />
     </article>
   )
 }

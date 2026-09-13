@@ -16,10 +16,16 @@ const variants: Record<Variant, string> = {
     outline: "bg-transparent border border-white text-white",
 }
 
+export const buttonSurfaceClassName = (
+  variant: Variant = 'solid',
+  className = '',
+) =>
+  `whitespace-nowrap px-5 py-2 min-h-10 ${variants[variant]} ${className}`.trim()
+
 const ButtonLink = ({ href, variant='solid', children, className='', ...props }: ButtonLinkProps) => {
 
   return (
-    <Link href={href} className={`whitespace-nowrap px-5 py-2 min-h-10 ${variants[variant]} ${className}`} {...props}>
+    <Link href={href} className={buttonSurfaceClassName(variant, `hover:opacity-80 ${className}`)} {...props}>
         {children}
     </Link>
   )

@@ -32,8 +32,7 @@ const FavoriteToggle = ({ product, className }: FavoriteToggleProps) => {
   const active = isReady && isFavorite(product.sku)
 
   const handleClick = (event: MouseEvent<HTMLButtonElement>) => {
-    // event.preventDefault()
-    // event.stopPropagation()
+    event.stopPropagation()
     toggleFavorite(product)
   }
 
@@ -47,7 +46,7 @@ const FavoriteToggle = ({ product, className }: FavoriteToggleProps) => {
           ? `Quitar ${product.title} de favoritos`
           : `Añadir ${product.title} a favoritos`
       }
-      className={className}
+      className={`cursor-pointer pointer-events-auto ${className ?? ""}`.trim()}
     >
       <HeartIcon filled={active} />
     </button>

@@ -13,7 +13,7 @@ const ProductCard = ({ product }: ProductCardProps) => {
   const displayPrice = salePrice ?? price
 
   return (
-    <article className="flex w-full flex-col gap-2">
+    <article className="relative flex w-full flex-col gap-2">
       <div className="relative aspect-4/5 w-full overflow-hidden bg-neutral-100">
         <FavoriteToggle
           product={product}
@@ -32,9 +32,9 @@ const ProductCard = ({ product }: ProductCardProps) => {
       <div className="flex flex-col gap-1.5 p-2">
         <div className="flex items-center justify-between gap-4">
           <h2 className="font-semibold min-w-0 flex-1 line-clamp-1 text-sm md:text-base">{title}</h2>
-          <Link className="shrink-0" href={`/products/${sku}`}>
-            <Image src="/icons/plus.svg" alt={`ver más detalles de ${title}`} width={20} height={20}/>
-          </Link>
+          <span className="shrink-0" aria-hidden>
+            <Image src="/icons/plus.svg" alt="" width={20} height={20} />
+          </span>
         </div>
         <p className="line-clamp-2 md:line-clamp-1 text-sm">{description}</p>
         {displayPrice != null ? (
@@ -52,6 +52,11 @@ const ProductCard = ({ product }: ProductCardProps) => {
           </p>
         ) : null}
       </div>
+      <Link
+        href={`/products/${sku}`}
+        className="absolute inset-0 z-1 focus-visible:outline-2 focus-visible:outline-offset-2"
+        aria-label={`Ver más detalles de ${title}`}
+      />
     </article>
   )
 }
