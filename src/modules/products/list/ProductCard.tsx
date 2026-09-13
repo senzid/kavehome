@@ -1,8 +1,8 @@
 import Image from "next/image"
 import Link from "next/link"
-import FavoriteToggle from "@/modules/products/favorites/FavoriteToggle"
-import { formatPrice } from "@/lib/currencyFormat"
-import type { Product } from "@/modules/products/types"
+import FavoriteToggle from "../favorites/FavoriteToggle"
+import ProductPrice from "../ProductPrice"
+import type { Product } from "../types"
 
 type ProductCardProps = {
   product: Product
@@ -10,7 +10,6 @@ type ProductCardProps = {
 
 const ProductCard = ({ product }: ProductCardProps) => {
   const { title, description, image, price, salePrice, sku } = product
-  const displayPrice = salePrice ?? price
 
   return (
     <article className="relative flex w-full flex-col gap-2">
@@ -37,20 +36,11 @@ const ProductCard = ({ product }: ProductCardProps) => {
           </span>
         </div>
         <p className="line-clamp-2 md:line-clamp-1 text-sm">{description}</p>
-        {displayPrice != null ? (
-          <p className="font-semibold text-sm text-neutral-700 md:text-base">
-            {salePrice != null && price != null && salePrice < price ? (
-              <>
-                <span className="mr-2 text-neutral-400 line-through">
-                  {formatPrice(price)}
-                </span>
-                <span>{formatPrice(salePrice)}</span>
-              </>
-            ) : (
-              formatPrice(displayPrice)
-            )}
-          </p>
-        ) : null}
+        <ProductPrice
+          price={price}
+          salePrice={salePrice}
+          className="font-semibold text-sm text-neutral-700 md:text-base"
+        />
       </div>
       <Link
         href={`/products/${sku}`}

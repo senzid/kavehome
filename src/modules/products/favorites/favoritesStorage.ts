@@ -1,4 +1,4 @@
-import type { Product } from "@/modules/products/types"
+import type { Product } from "../types"
 
 export const FAVORITES_STORAGE_KEY = "kavehome:favorites"
 

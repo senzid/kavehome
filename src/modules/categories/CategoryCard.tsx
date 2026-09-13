@@ -1,5 +1,5 @@
 import Image from "next/image"
-import type { Category } from "@/modules/home/categories/types"
+import type { Category } from "./types"
 
 type CategoryCardProps = {
   category: Category

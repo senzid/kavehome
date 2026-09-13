@@ -1,7 +1,6 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
-import { getProductBySku } from "@/modules/products/products"
-import ProductDetail from "@/modules/products/details/ProductDetail"
+import { getProductBySku, ProductDetailView } from "@/modules/products"
 
 export const revalidate = 86400 // 24h
 
@@ -38,7 +37,7 @@ export default async function ProductPage({ params }: Props) {
 
   return (
     <main>
-      <ProductDetail product={product} />
+      <ProductDetailView product={product} />
     </main>
   )
 }

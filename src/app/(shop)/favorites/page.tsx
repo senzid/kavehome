@@ -1,5 +1,5 @@
 import type { Metadata } from "next"
-import FavoritesView from "@/modules/products/favorites/FavoritesView"
+import { FavoritesView } from "@/modules/products"
 
 export const metadata: Metadata = {
   title: "Kavehome — Favoritos",

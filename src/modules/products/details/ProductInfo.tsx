@@ -3,10 +3,11 @@
 import { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
-import FavoriteToggle from "@/modules/products/favorites/FavoriteToggle"
-import { formatPrice } from "@/lib/currencyFormat"
-import { addToCart } from "@/modules/products/details/addToCart"
-import type { Product, ProductDetail } from "@/modules/products/types"
+import FavoriteToggle from "../favorites/FavoriteToggle"
+import ProductPrice from "../ProductPrice"
+import { toProductSummary } from "../toProductSummary"
+import type { ProductDetail } from "../types"
+import { addToCart } from "./addToCart"
 
 type ProductInfoProps = {
   product: ProductDetail
@@ -14,22 +15,20 @@ type ProductInfoProps = {
 
 const QUANTITY_OPTIONS = Array.from({ length: 10 }, (_, index) => index + 1)
 
-function toFavoriteProduct(product: ProductDetail): Product {
-  return {
-    sku: product.sku,
-    title: product.title,
-    description: product.description,
-    image: product.image,
-    price: product.price,
-    salePrice: product.salePrice,
-  }
+const formatDeliveryDate = (date: Date) => {
+  const day = String(date.getDate()).padStart(2, "0")
+  const month = String(date.getMonth() + 1).padStart(2, "0")
+  return `${day}/${month}`
 }
 
 const ProductInfo = ({ product }: ProductInfoProps) => {
   const { title, description, price, salePrice } = product
-  const displayPrice = salePrice ?? price
   const [quantity, setQuantity] = useState(1)
-  const favoriteProduct = toFavoriteProduct(product)
+
+  const deliveryFrom = new Date()
+  deliveryFrom.setDate(deliveryFrom.getDate() + 1)
+  const deliveryTo = new Date(deliveryFrom)
+  deliveryTo.setDate(deliveryFrom.getDate() + 7)
 
   const handleAddToCart = () => {
     addToCart(quantity)
@@ -40,7 +39,10 @@ const ProductInfo = ({ product }: ProductInfoProps) => {
       <div className="flex flex-col gap-3">
         <div className="flex items-start justify-between gap-4">
           <h1 className="text-2xl font-semibold md:text-3xl">{title}</h1>
-          <FavoriteToggle product={favoriteProduct} className="shrink-0" />
+          <FavoriteToggle
+            product={toProductSummary(product)}
+            className="shrink-0"
+          />
         </div>
 
         {description ? (
@@ -49,20 +51,11 @@ const ProductInfo = ({ product }: ProductInfoProps) => {
           </p>
         ) : null}
 
-        {displayPrice != null ? (
-          <p className="text-lg font-semibold md:text-xl">
-            {salePrice != null && price != null && salePrice < price ? (
-              <>
-                <span className="mr-2 text-neutral-400 line-through">
-                  {formatPrice(price)}
-                </span>
-                <span>{formatPrice(salePrice)}</span>
-              </>
-            ) : (
-              formatPrice(displayPrice)
-            )}
-          </p>
-        ) : null}
+        <ProductPrice
+          price={price}
+          salePrice={salePrice}
+          className="text-lg font-semibold md:text-xl"
+        />
 
         <p className="text-sm text-neutral-600">
           Fracciona tu pago en cómodas cuotas.{" "}
@@ -109,7 +102,8 @@ const ProductInfo = ({ product }: ProductInfoProps) => {
         />
         <span>
           Compra ahora y recíbelo aproximadamente entre el{" "}
-          <strong>28/08</strong> y el <strong>04/09</strong>.
+          <strong>{formatDeliveryDate(deliveryFrom)}</strong> y el{" "}
+          <strong>{formatDeliveryDate(deliveryTo)}</strong>.
         </span>
       </p>
     </div>

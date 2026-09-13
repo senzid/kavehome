@@ -1,7 +1,6 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
-import { getBlogPost, getBlogSlugs } from "@/modules/blog/blog"
-import BlogArticle from "@/modules/blog/BlogArticle"
+import { BlogArticle, getBlogPost, getBlogSlugs } from "@/modules/blog"
 
 export const revalidate = 86400 // 24h
 export const dynamicParams = false

@@ -1,6 +1,6 @@
 import { cache } from "react"
 import blogFallback from "@/data/endpoints-response/blog.json"
-import type { Blog, BlogCover } from "@/modules/blog/types"
+import type { Blog, BlogCover } from "./types"
 
 type BlogApiResponse = {
   results: Blog[]

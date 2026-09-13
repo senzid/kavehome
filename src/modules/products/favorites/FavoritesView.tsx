@@ -1,8 +1,8 @@
 "use client"
 
 import Link from "next/link"
-import { useFavorites } from "@/modules/products/favorites/FavoritesContext"
-import ProductsGrid from "@/modules/products/list/ProductsGrid"
+import ProductsGrid from "../list/ProductsGrid"
+import { useFavorites } from "./FavoritesContext"
 
 const FavoritesView = () => {
   const { favorites, isReady } = useFavorites()

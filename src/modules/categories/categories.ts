@@ -5,7 +5,7 @@ import type {
   CategoriesApiResponse,
   Category,
   CategoryApi,
-} from "@/modules/home/categories/types"
+} from "./types"
 
 const REVALIDATE_SECONDS = 60 * 60 * 24 // 24h
 

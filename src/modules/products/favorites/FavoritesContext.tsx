@@ -9,12 +9,13 @@ import {
   useState,
   type ReactNode,
 } from "react"
-import type { Product } from "@/modules/products/types"
+import type { Product } from "../types"
+import { toProductSummary } from "../toProductSummary"
 import {
   readFavorites,
   writeFavorites,
   type FavoritesMap,
-} from "@/modules/products/favorites/favoritesStorage"
+} from "./favoritesStorage"
 
 type FavoritesStateValue = {
   favorites: Product[]
@@ -63,14 +64,7 @@ export function FavoritesProvider({ children }: FavoritesProviderProps) {
 
       return {
         ...current,
-        [product.sku]: {
-          sku: product.sku,
-          title: product.title,
-          description: product.description,
-          image: product.image,
-          price: product.price,
-          salePrice: product.salePrice,
-        },
+        [product.sku]: toProductSummary(product),
       }
     })
   }, [])

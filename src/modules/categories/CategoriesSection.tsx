@@ -1,12 +1,12 @@
-import type { Category } from "@/modules/home/categories/types"
+import type { Category } from "./types"
 import Carousel from "@/components/ui/Carousel"
 import CategoryCard from "./CategoryCard"
 
-type CategoriesLayoutProps = {
+type CategoriesSectionProps = {
   categories: Category[]
 }
 
-const CategoriesLayout = ({ categories }: CategoriesLayoutProps) => {
+const CategoriesSection = ({ categories }: CategoriesSectionProps) => {
   if (categories.length === 0) return null
 
   return (
@@ -30,4 +30,4 @@ const CategoriesLayout = ({ categories }: CategoriesLayoutProps) => {
   )
 }
 
-export default CategoriesLayout
+export default CategoriesSection

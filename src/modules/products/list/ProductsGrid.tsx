@@ -1,4 +1,4 @@
-import type { Product } from "@/modules/products/types"
+import type { Product } from "../types"
 import ProductCard from "./ProductCard"
 
 type ProductsGridProps = {

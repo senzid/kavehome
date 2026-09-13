@@ -1,8 +1,8 @@
 "use client"
 
 import type { MouseEvent } from "react"
-import type { Product } from "@/modules/products/types"
-import { useFavorites } from "@/modules/products/favorites/FavoritesContext"
+import type { Product } from "../types"
+import { useFavorites } from "./FavoritesContext"
 
 type FavoriteToggleProps = {
   product: Product

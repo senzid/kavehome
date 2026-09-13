@@ -1,13 +1,13 @@
-import ProductGallery from "@/modules/products/details/ProductGallery"
-import ProductInfo from "@/modules/products/details/ProductInfo"
-import type { ProductDetail as ProductDetailType } from "@/modules/products/types"
-import ProductValueProps from "./ProductValueProps";
+import type { ProductDetail } from "../types"
+import ProductGallery from "./ProductGallery"
+import ProductInfo from "./ProductInfo"
+import ProductValueProps from "./ProductValueProps"
 
-type ProductDetailProps = {
-  product: ProductDetailType
+type ProductDetailViewProps = {
+  product: ProductDetail
 }
 
-const ProductDetail = ({ product }: ProductDetailProps) => {
+const ProductDetailView = ({ product }: ProductDetailViewProps) => {
   return (
     <article>
       <div className="flex w-full flex-col pb-8 md:flex-row md:py-8">
@@ -27,4 +27,4 @@ const ProductDetail = ({ product }: ProductDetailProps) => {
   )
 }
 
-export default ProductDetail
+export default ProductDetailView

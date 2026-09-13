@@ -9,7 +9,7 @@ import type {
   ProductDetail,
   ProductsApiResponse,
   ProductsPage,
-} from "@/modules/products/types"
+} from "./types"
 
 export const PRODUCTS_PAGE_SIZE = 20
 const REVALIDATE_SECONDS = 60 * 60 * 24 // 24h

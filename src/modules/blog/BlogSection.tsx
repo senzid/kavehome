@@ -1,13 +1,12 @@
-import React from 'react'
-import Carousel from '@/components/ui/Carousel'
-import { BlogCover } from './types';
-import BlogCard from './BlogCard';
+import Carousel from "@/components/ui/Carousel"
+import type { BlogCover } from "./types"
+import BlogCard from "./BlogCard"
 
-type BlogLayoutProps = {
+type BlogSectionProps = {
   blogPosts: BlogCover[]
 }
 
-const BlogLayout = ({ blogPosts }: BlogLayoutProps) => {
+const BlogSection = ({ blogPosts }: BlogSectionProps) => {
   return (
     <section aria-label="Blog" className="flex w-full flex-col gap-6 pb-18">
       <Carousel
@@ -27,4 +26,4 @@ const BlogLayout = ({ blogPosts }: BlogLayoutProps) => {
   )
 }
 
-export default BlogLayout
+export default BlogSection

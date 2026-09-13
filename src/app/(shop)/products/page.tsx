@@ -1,8 +1,10 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
-import { getProductsPage } from "@/modules/products/products"
-import ProductsGrid from "@/modules/products/list/ProductsGrid"
-import Pagination from "@/modules/products/list/Pagination"
+import {
+  getProductsPage,
+  Pagination,
+  ProductsGrid,
+} from "@/modules/products"
 
 export const revalidate = 86400 // 24h
 
