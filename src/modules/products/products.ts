@@ -20,6 +20,8 @@ const PRODUCTS_FALLBACKS: Record<number, ProductsApiResponse> = {
   3: productsFallbackPage3 as ProductsApiResponse,
 }
 
+export const PRODUCTS_PRERENDER_PAGES = 2
+
 function findProductInFallbacks(sku: string): ProductApi | undefined {
   for (const page of Object.values(PRODUCTS_FALLBACKS)) {
     const found = page.results.find((product) => product.sku === sku)

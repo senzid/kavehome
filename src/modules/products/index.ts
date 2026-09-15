@@ -2,6 +2,7 @@ export {
   getProductsPage,
   getProductBySku,
   PRODUCTS_PAGE_SIZE,
+  PRODUCTS_PRERENDER_PAGES,
 } from "./products"
 export type { Product, ProductDetail, ProductsPage } from "./types"
 export { default as ProductDetailView } from "./details/ProductDetailView"

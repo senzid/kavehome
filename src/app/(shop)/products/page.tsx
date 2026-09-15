@@ -1,5 +1,4 @@
 import type { Metadata } from "next"
-import { notFound } from "next/navigation"
 import PageHeader from "@/components/layout/PageHeader"
 import { buildPageMetadata } from "@/lib/seo"
 import {
@@ -10,45 +9,19 @@ import {
 
 export const revalidate = 86400 // 24h
 
-type ProductsSearchParams = Promise<{ page?: string }>
-
-type Props = {
-  searchParams: ProductsSearchParams
-}
-
 const PRODUCTS_DESCRIPTION =
   "Explora la colección de mobiliario y decoración Kave Home: diseño, confort y piezas para cada espacio."
 
-function parsePage(pageParam: string | undefined): number {
-  const page = Number(pageParam)
-  if (!Number.isFinite(page) || page < 1) return 1
-  return Math.floor(page)
-}
-
-export async function generateMetadata({
-  searchParams,
-}: Props): Promise<Metadata> {
-  const { page: pageParam } = await searchParams
-  const page = parsePage(pageParam)
-  const title = page > 1 ? `Productos · Página ${page}` : "Productos"
-  const path = page > 1 ? `/products?page=${page}` : "/products"
-
+export async function generateMetadata(): Promise<Metadata> {
   return buildPageMetadata({
-    title,
+    title: "Productos",
     description: PRODUCTS_DESCRIPTION,
-    path,
+    path: "/products",
   })
 }
 
-export default async function Products({ searchParams }: Props) {
-  const { page: pageParam } = await searchParams
-  const page = parsePage(pageParam)
-  const { products, totalPages, page: currentPage } =
-    await getProductsPage(page)
-
-  if (page > totalPages && totalPages > 0) {
-    notFound()
-  }
+export default async function Products() {
+  const { products, totalPages, page: currentPage } = await getProductsPage(1)
 
   return (
     <PageHeader

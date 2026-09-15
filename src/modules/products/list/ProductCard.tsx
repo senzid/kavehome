@@ -39,7 +39,7 @@ export default function ProductCard({ product }: ProductCardProps) {
         />
       </div>
       <Link
-        href={`/products/${sku}`}
+        href={`/products/p/${sku}`}
         className="absolute inset-0 z-1 focus-visible:outline-2 focus-visible:outline-offset-2"
         aria-label={`Ver más detalles de ${title}`}
       />

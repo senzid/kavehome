@@ -6,8 +6,8 @@ describe("pagination helpers", () => {
     it.each([
       [1, "/products"],
       [0, "/products"],
-      [2, "/products?page=2"],
-      [10, "/products?page=10"],
+      [2, "/products/2"],
+      [10, "/products/10"],
     ])("pageHref(%s) => %s", (page, href) => {
       expect(pageHref(page)).toBe(href)
     })

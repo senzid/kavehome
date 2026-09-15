@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return buildPageMetadata({
     title: product.title,
     description,
-    path: `/products/${product.sku}`,
+    path: `/products/p/${product.sku}`,
     images: [product.image, ...product.images],
   })
 }

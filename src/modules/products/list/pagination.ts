@@ -1,5 +1,5 @@
 export function pageHref(page: number): string {
-  return page <= 1 ? "/products" : `/products?page=${page}`
+  return page <= 1 ? "/products" : `/products/${page}`
 }
 
 export function getVisiblePages(
