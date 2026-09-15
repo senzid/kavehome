@@ -56,7 +56,9 @@ export default async function ProductsPage({ params }: Props) {
   const page = parsePage(pageParam)
   if (!page) notFound()
 
-  const { products, totalPages, page: currentPage } = await getProductsPage(page)
+  const { products, totalPages, page: currentPage } = await getProductsPage(page).catch(() => {
+    notFound()
+  })
 
   if (page > totalPages && totalPages > 0) {
     notFound()
