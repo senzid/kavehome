@@ -1,20 +1,14 @@
-"use client"
-
-import { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
-import Button from "@/components/ui/Button"
 import FavoriteToggle from "../favorites/FavoriteToggle"
 import ProductPrice from "../ProductPrice"
 import { toProductSummary } from "../toProductSummary"
 import type { ProductDetail } from "../types"
-import { addToCart } from "./addToCart"
+import AddToCartControls from "./AddToCartControls"
 
 type ProductInfoProps = {
   product: ProductDetail
 }
-
-const QUANTITY_OPTIONS = Array.from({ length: 10 }, (_, index) => index + 1)
 
 const formatDeliveryDate = (date: Date) => {
   const day = String(date.getDate()).padStart(2, "0")
@@ -24,16 +18,11 @@ const formatDeliveryDate = (date: Date) => {
 
 const ProductInfo = ({ product }: ProductInfoProps) => {
   const { title, description, price, salePrice } = product
-  const [quantity, setQuantity] = useState(1)
 
   const deliveryFrom = new Date()
   deliveryFrom.setDate(deliveryFrom.getDate() + 1)
   const deliveryTo = new Date(deliveryFrom)
   deliveryTo.setDate(deliveryFrom.getDate() + 7)
-
-  const handleAddToCart = () => {
-    addToCart(quantity)
-  }
 
   return (
     <div className="flex flex-col gap-10 px-6 pt-12 pb-4 md:p-12">
@@ -66,33 +55,7 @@ const ProductInfo = ({ product }: ProductInfoProps) => {
         </p>
       </div>
 
-      <div className="flex items-stretch gap-3 md:pt-20">
-        <label className="sr-only" htmlFor="product-quantity">
-          Cantidad
-        </label>
-        <select
-          id="product-quantity"
-          value={quantity}
-          onChange={(event) => setQuantity(Number(event.target.value))}
-          className="min-w-16 border border-neutral-300 bg-white px-3 py-3 text-sm"
-        >
-          {QUANTITY_OPTIONS.map((value) => (
-            <option key={value} value={value}>
-              {value}
-            </option>
-          ))}
-        </select>
-
-        <Button
-          variant="solid"
-          tone="onLight"
-          size="sm"
-          className="flex-1"
-          onClick={handleAddToCart}
-        >
-          Añadir a mi cesta
-        </Button>
-      </div>
+      <AddToCartControls />
 
       <p className="flex items-start gap-2 text-sm text-neutral-700">
         <Image
