@@ -3,7 +3,8 @@
 import { useRef, type ReactNode } from "react"
 import Image from "next/image"
 
-const LIST_BASE = "flex snap-x snap-mandatory overflow-x-auto"
+const LIST_BASE =
+  "flex snap-x snap-mandatory overflow-x-auto [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
 
 type CarouselProps = {
   children: ReactNode
