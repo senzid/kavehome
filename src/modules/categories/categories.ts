@@ -20,12 +20,6 @@ function toCategory(category: CategoryApi): Category {
   }
 }
 
-function isHomeCategory(
-  category: CategoryApi,
-): category is CategoryApi & { highlightImage: string } {
-  return category.mainParent === null
-}
-
 async function fetchCategories(): Promise<CategoryApi[]> {
   const data = await apiGet<CategoriesApiResponse>("categories/", {
     revalidate: REVALIDATE_SECONDS,
@@ -38,5 +32,5 @@ async function fetchCategories(): Promise<CategoryApi[]> {
 
 export const getHomeCategories = cache(async (): Promise<Category[]> => {
   const categories = await fetchCategories()
-  return categories.filter(isHomeCategory).map(toCategory)
+  return categories.map(toCategory)
 })
