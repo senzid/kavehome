@@ -19,6 +19,12 @@ type Props = {
   params: Promise<{ page: string }>
 }
 
+function parsePage(pageParam: string): number | null {
+  const page = Number(pageParam)
+  if (!Number.isInteger(page) || page < 2) return null
+  return page
+}
+
 export async function generateStaticParams() {
   const staticPages = []
   for (let p = 2; p <= PRODUCTS_PRERENDER_PAGES; p++) {
@@ -29,7 +35,9 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { page: pageParam } = await params
-  const page = Number(pageParam)
+  const page = parsePage(pageParam)
+
+  if (!page) return {}
 
   return buildPageMetadata({
     title: `Productos · Página ${page}`,
@@ -40,15 +48,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function ProductsPage({ params }: Props) {
   const { page: pageParam } = await params
-  const page = Number(pageParam)
 
-  if (!Number.isInteger(page) || page < 1) {
-    notFound()
-  }
-
-  if (page === 1) {
+  if (pageParam === "1") {
     permanentRedirect("/products")
   }
+
+  const page = parsePage(pageParam)
+  if (!page) notFound()
 
   const { products, totalPages, page: currentPage } = await getProductsPage(page)
 
