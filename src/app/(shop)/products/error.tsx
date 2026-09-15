@@ -18,14 +18,14 @@ export default function Error({ error, reset }: ErrorPageProps) {
   return (
     <StatusPage
       title="Algo ha ido mal"
-      description="No hemos podido cargar esta página. Puedes intentarlo de nuevo o volver al inicio."
+      description="No hemos podido cargar esta página. Puedes intentarlo de nuevo o volver al catálogo."
       actions={
         <>
           <Button variant="outline" tone="onLight" size="sm" onClick={reset}>
             Reintentar
           </Button>
-          <ButtonLink href="/" variant="solid" tone="onLight" size="sm">
-            Ir al inicio
+          <ButtonLink href="/products" variant="solid" tone="onLight" size="sm">
+            Ver productos
           </ButtonLink>
         </>
       }
